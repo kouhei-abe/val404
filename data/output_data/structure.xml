@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <msDesc active="1"/>
+   <headerInfo active="1"/>
+   <front active="1"/>
+   <liste>
+      <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+      <listPlace active="1" lang="def">LIST_PLACE</listPlace>
+      <listOrg active="1" lang="def">LIST_ORG</listOrg>
+      <listTerm active="1" lang="def">LIST_TERM</listTerm>
+   </liste>
+   <editions>
+      <edition data-key="dipl">Diplomatic</edition>
+      <edition data-key="interp">Interpretative</edition>
+   </editions>
+   <textpage>
+      <text n="1" label="Valenciennes 404">
+         <pb n="57r">Val404_57r</pb>
+         <pb n="57v">Val404_57v</pb>
+         <pb n="58r">Val404_58r</pb>
+         <pb n="58v">Val404_58v</pb>
+         <pb n="59r">Val404_59r</pb>
+         <pb n="59v">Val404_59v</pb>
+         <pb n="60r">Val404_60r</pb>
+         <pb n="60v">Val404_60v</pb>
+         <pb n="61r">Val404_61r</pb>
+         <pb n="61v">Val404_61v</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="57r">Val404_57r</pb>
+      </pair>
+      <pair>
+         <pb n="57v">Val404_57v</pb>
+         <pb n="58r">Val404_58r</pb>
+      </pair>
+      <pair>
+         <pb n="58v">Val404_58v</pb>
+         <pb n="59r">Val404_59r</pb>
+      </pair>
+      <pair>
+         <pb n="59v">Val404_59v</pb>
+         <pb n="60r">Val404_60r</pb>
+      </pair>
+      <pair>
+         <pb n="60v">Val404_60v</pb>
+         <pb n="61r">Val404_61r</pb>
+      </pair>
+      <pair>
+         <pb n="61v">Val404_61v</pb>
+      </pair>
+   </pages>
+   <idno/>
+</xml>

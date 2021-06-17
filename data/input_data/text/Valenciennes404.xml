@@ -1,0 +1,1809 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Valenciennes 404 (386)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>France</country>
+                  <settlement>Paris</settlement>
+                  <repository>Bibliothèque nationale de France</repository>
+                  <msName>Bibliothèque municipale de Valenciennes. Ms.404 (386)</msName>
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="lat">Latin</textLang>
+                  <msItem>
+                     <locus from="1r" to="27r">1r-27r</locus>
+                     <author>Isidorus</author>
+                     <title>Isidorus, Etymologiae (II, i-xxi)</title>
+                     <incipit>Incipit liber Ysidori de rethorica et dialectica</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus from="27r" to="56v">27r-56v</locus>
+                     <author>Alcuin</author>
+                     <title>Alcuin, Disputatio de rethorica et virtutibus</title>
+                     <incipit>Disputatio de rethorica et virtutibus regis Karoli et magistri
+                        Albini</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus from="57r" to="57r">57r</locus>
+                     <title/>
+                     <incipit>Sententiae septem sapientum</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus from="57r" to="61v">57r-61v</locus>
+                     <title/>
+                     <incipit>Theoricus, Practicus, Loicus</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus from="62r" to="65r">62r-65r</locus>
+                     <title/>
+                     <incipit>Incipiunt dicta sybillae magae</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus from="65v" to="65v">65v</locus>
+                     <title/>
+                     <incipit>Uersus sybillae de juditii die</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus from="66r" to="118r">66r-118r</locus>
+                     <title>Decuili Hibernicus, Liber de Astronomia</title>
+                     <incipit>Capitula primi libelli incipiunt</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="parchment">
+                        <collation>
+                           <p> Parchemin. 118 feuillets. Titres en capitales parfois de couleur
+                              violette, initiales rouges ou lilas. 219 × 148 mm. Reliure bois, peau
+                              blanche.</p>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile xml:id="Valenciennes_404">
+      <surface xml:id="Val404_57r_surf" corresp="#Val404_57r">
+         <graphic width="1024px" height="1517px" url="Val404_57r.jpg"/>
+         <zone n="01" xml:id="Val404_57r_p_01" corresp="#Val404_57r_lb_01" rendition="Line" ulx="97"
+            uly="893" lrx="762" lry="946"/>
+         <zone n="02" xml:id="Val404_57r_p_02" corresp="#Val404_57r_lb_02" rendition="Line" ulx="95"
+            uly="939" lrx="792" lry="1025"/>
+         <zone n="03" xml:id="Val404_57r_p_03" corresp="#Val404_57r_lb_03" rendition="Line" ulx="93"
+            uly="1021" lrx="792" lry="1150"/>
+         <zone n="04" xml:id="Val404_57r_p_04" corresp="#Val404_57r_lb_04" rendition="Line" ulx="96"
+            uly="1151" lrx="733" lry="1240"/>
+      </surface>
+      <surface xml:id="Val404_57v_surf" corresp="#Val404_57v">
+         <graphic width="1024px" height="1506px" url="Val404_57v.jpg"/>
+         <zone n="01" xml:id="Val404_57v_p_01" corresp="#Val404_57v_lb_01" rendition="Line"
+            ulx="198" uly="147" lrx="772" lry="279"/>
+         <zone n="02" xml:id="Val404_57v_p_02" corresp="#Val404_57v_lb_02" rendition="Line"
+            ulx="217" uly="308" lrx="897" lry="405"/>
+         <zone n="03" xml:id="Val404_57v_p_03" corresp="#Val404_57v_lb_03" rendition="Line"
+            ulx="708" uly="438" lrx="956" lry="779"/>
+         <zone n="04" xml:id="Val404_57v_p_04" corresp="#Val404_57v_lb_04" rendition="Line"
+            ulx="441" uly="354" lrx="666" lry="490"/>
+         <zone n="05" xml:id="Val404_57v_p_05" corresp="#Val404_57v_lb_05" rendition="Line"
+            ulx="256" uly="704" lrx="422" lry="823"/>
+         <zone n="06" xml:id="Val404_57v_p_06" corresp="#Val404_57v_lb_06" rendition="Line"
+            ulx="467" uly="703" lrx="639" lry="824"/>
+         <zone n="07" xml:id="Val404_57v_p_07" corresp="#Val404_57v_lb_07" rendition="Line"
+            ulx="681" uly="702" lrx="852" lry="824"/>
+         <zone n="08" xml:id="Val404_57v_p_08" corresp="#Val404_57v_lb_08" rendition="Line"
+            ulx="212" uly="856" lrx="907" lry="952"/>
+         <zone n="09" xml:id="Val404_57v_p_09" corresp="#Val404_57v_lb_09" rendition="Line"
+            ulx="218" uly="994" lrx="357" lry="1130"/>
+         <zone n="10" xml:id="Val404_57v_p_10" corresp="#Val404_57v_lb_10" rendition="Line"
+            ulx="378" uly="996" lrx="526" lry="1131"/>
+         <zone n="11" xml:id="Val404_57v_p_11" corresp="#Val404_57v_lb_11" rendition="Line"
+            ulx="564" uly="989" lrx="719" lry="1098"/>
+         <zone n="12" xml:id="Val404_57v_p_12" corresp="#Val404_57v_lb_12" rendition="Line"
+            ulx="747" uly="987" lrx="887" lry="1103"/>
+      </surface>
+      <surface xml:id="Val404_58r_surf" corresp="#Val404_58r">
+         <graphic width="1024px" height="1525px" url="Val404_58r.jpg"/>
+         <zone n="01" xml:id="Val404_58r_p_01" corresp="#Val404_58r_lb_01" rendition="Line" ulx="89"
+            uly="154" lrx="822" lry="230"/>
+         <zone n="02" xml:id="Val404_58r_p_02" corresp="#Val404_58r_lb_02" rendition="Line" ulx="89"
+            uly="230" lrx="808" lry="313"/>
+         <zone n="03" xml:id="Val404_58r_p_03" corresp="#Val404_58r_lb_03" rendition="Line" ulx="88"
+            uly="314" lrx="796" lry="399"/>
+         <zone n="04" xml:id="Val404_58r_p_04" corresp="#Val404_58r_lb_04" rendition="Line" ulx="87"
+            uly="402" lrx="806" lry="530"/>
+         <zone n="05" xml:id="Val404_58r_p_05" corresp="#Val404_58r_lb_05" rendition="Line"
+            ulx="374" uly="616" lrx="567" lry="773"/>
+         <zone n="06" xml:id="Val404_58r_p_06" corresp="#Val404_58r_lb_06" rendition="Line"
+            ulx="557" uly="577" lrx="820" lry="1049"/>
+         <zone n="07" xml:id="Val404_58r_p_07" corresp="#Val404_58r_lb_07" rendition="Line"
+            ulx="139" uly="1077" lrx="305" lry="1164"/>
+         <zone n="08" xml:id="Val404_58r_p_08" corresp="#Val404_58r_lb_08" rendition="Line" ulx="90"
+            uly="745" lrx="368" lry="997"/>
+         <zone n="09" xml:id="Val404_58r_p_09" corresp="#Val404_58r_lb_09" rendition="Line"
+            ulx="374" uly="1079" lrx="538" lry="1207"/>
+         <zone n="10" xml:id="Val404_58r_p_10" corresp="#Val404_58r_lb_10" rendition="Line"
+            ulx="599" uly="1088" lrx="768" lry="1166"/>
+      </surface>
+      <surface xml:id="Val404_58v_surf" corresp="#Val404_58v">
+         <graphic width="1024px" height="1516px" url="Val404_58v.jpg"/>
+         <zone n="01" xml:id="Val404_58v_p_01" corresp="#Val404_58v_lb_01" rendition="Line"
+            ulx="222" uly="174" lrx="942" lry="259"/>
+         <zone n="02" xml:id="Val404_58v_p_02" corresp="#Val404_58v_lb_02" rendition="Line"
+            ulx="374" uly="208" lrx="691" lry="525"/>
+         <zone n="03" xml:id="Val404_58v_p_03" corresp="#Val404_58v_lb_03" rendition="Line"
+            ulx="626" uly="280" lrx="939" lry="620"/>
+         <zone n="04" xml:id="Val404_58v_p_04" corresp="#Val404_58v_lb_04" rendition="Line"
+            ulx="284" uly="856" lrx="716" lry="1191"/>
+         <zone n="05" xml:id="Val404_58v_p_05" corresp="#Val404_58v_lb_05" rendition="Line"
+            ulx="624" uly="882" lrx="874" lry="1070"/>
+      </surface>
+      <surface xml:id="Val404_59r_surf" corresp="#Val404_59r">
+         <graphic width="1024px" height="1490px" url="Val404_59r.jpg"/>
+         <zone n="01" xml:id="Val404_59r_p_01" corresp="#Val404_59r_lb_01" rendition="Line"
+            ulx="109" uly="181" lrx="808" lry="250"/>
+         <zone n="02" xml:id="Val404_59r_p_02" corresp="#Val404_59r_lb_02" rendition="Line" ulx="99"
+            uly="275" lrx="821" lry="381"/>
+         <zone n="03" xml:id="Val404_59r_p_03" corresp="#Val404_59r_lb_03" rendition="Line"
+            ulx="346" uly="450" lrx="614" lry="586"/>
+         <zone n="04" xml:id="Val404_59r_p_04" corresp="#Val404_59r_lb_04" rendition="Line" ulx="90"
+            uly="586" lrx="408" lry="1011"/>
+         <zone n="05" xml:id="Val404_59r_p_05" corresp="#Val404_59r_lb_05" rendition="Line"
+            ulx="375" uly="786" lrx="565" lry="1001"/>
+         <zone n="06" xml:id="Val404_59r_p_06" corresp="#Val404_59r_lb_06" rendition="Line"
+            ulx="554" uly="586" lrx="826" lry="996"/>
+         <zone n="07" xml:id="Val404_59r_p_07" corresp="#Val404_59r_lb_07" rendition="Line"
+            ulx="153" uly="1013" lrx="345" lry="1174"/>
+         <zone n="08" xml:id="Val404_59r_p_08" corresp="#Val404_59r_lb_08" rendition="Line"
+            ulx="384" uly="1021" lrx="558" lry="1151"/>
+         <zone n="09" xml:id="Val404_59r_p_09" corresp="#Val404_59r_lb_09" rendition="Line"
+            ulx="588" uly="1019" lrx="792" lry="1187"/>
+      </surface>
+      <surface xml:id="Val404_59v_surf" corresp="#Val404_59v">
+         <graphic width="1024px" height="1504px" url="Val404_59v.jpg"/>
+         <zone n="01" xml:id="Val404_59v_p_01" corresp="#Val404_59v_lb_01" rendition="Line"
+            ulx="194" uly="158" lrx="935" lry="590"/>
+         <zone n="02" xml:id="Val404_59v_p_02" corresp="#Val404_59v_lb_02" rendition="Line"
+            ulx="207" uly="592" lrx="939" lry="672"/>
+         <zone n="03" xml:id="Val404_59v_p_03" corresp="#Val404_59v_lb_03" rendition="Line"
+            ulx="212" uly="670" lrx="938" lry="745"/>
+         <zone n="04" xml:id="Val404_59v_p_04" corresp="#Val404_59v_lb_04" rendition="Line"
+            ulx="210" uly="751" lrx="989" lry="850"/>
+         <zone n="05" xml:id="Val404_59v_p_05" corresp="#Val404_59v_lb_05" rendition="Line"
+            ulx="210" uly="823" lrx="870" lry="955"/>
+      </surface>
+      <surface xml:id="Val404_60r_surf" corresp="#Val404_60r">
+         <graphic width="1024px" height="1517px" url="Val404_60r.jpg"/>
+         <zone n="01" xml:id="Val404_60r_p_01" corresp="#Val404_60r_lb_01" rendition="Line" ulx="98"
+            uly="224" lrx="355" lry="479"/>
+         <zone n="02" xml:id="Val404_60r_p_02" corresp="#Val404_60r_lb_02" rendition="Line"
+            ulx="338" uly="302" lrx="555" lry="471"/>
+         <zone n="03" xml:id="Val404_60r_p_03" corresp="#Val404_60r_lb_03" rendition="Line"
+            ulx="133" uly="643" lrx="309" lry="793"/>
+         <zone n="04" xml:id="Val404_60r_p_04" corresp="#Val404_60r_lb_04" rendition="Line"
+            ulx="355" uly="646" lrx="542" lry="787"/>
+         <zone n="05" xml:id="Val404_60r_p_05" corresp="#Val404_60r_lb_05" rendition="Line"
+            ulx="581" uly="641" lrx="767" lry="757"/>
+         <zone n="06" xml:id="Val404_60r_p_06" corresp="#Val404_60r_lb_06" rendition="Line" ulx="90"
+            uly="841" lrx="818" lry="920"/>
+         <zone n="07" xml:id="Val404_60r_p_07" corresp="#Val404_60r_lb_07" rendition="Line" ulx="62"
+            uly="917" lrx="888" lry="1264"/>
+      </surface>
+      <surface xml:id="Val404_60v_surf" corresp="#Val404_60v">
+         <graphic width="1024px" height="1483px" url="Val404_60v.jpg"/>
+         <zone n="01" xml:id="Val404_60v_p_01" corresp="#Val404_60v_lb_01" rendition="Line"
+            ulx="185" uly="164" lrx="942" lry="327"/>
+         <zone n="02" xml:id="Val404_60v_p_02" corresp="#Val404_60v_lb_02" rendition="Line"
+            ulx="182" uly="324" lrx="945" lry="489"/>
+         <zone n="03" xml:id="Val404_60v_p_03" corresp="#Val404_60v_lb_03" rendition="Line"
+            ulx="201" uly="484" lrx="944" lry="572"/>
+         <zone n="04" xml:id="Val404_60v_p_04" corresp="#Val404_60v_lb_04" rendition="Line"
+            ulx="201" uly="570" lrx="944" lry="651"/>
+         <zone n="05" xml:id="Val404_60v_p_05" corresp="#Val404_60v_lb_05" rendition="Line"
+            ulx="201" uly="649" lrx="944" lry="774"/>
+         <zone n="06" xml:id="Val404_60v_p_06" corresp="#Val404_60v_lb_06" rendition="Line"
+            ulx="197" uly="768" lrx="944" lry="931"/>
+         <zone n="07" xml:id="Val404_60v_p_07" corresp="#Val404_60v_lb_07" rendition="Line"
+            ulx="217" uly="930" lrx="960" lry="1016"/>
+         <zone n="08" xml:id="Val404_60v_p_08" corresp="#Val404_60v_lb_08" rendition="Line"
+            ulx="217" uly="1016" lrx="959" lry="1179"/>
+         <zone n="09" xml:id="Val404_60v_p_09" corresp="#Val404_60v_lb_09" rendition="Line"
+            ulx="232" uly="1181" lrx="842" lry="1232"/>
+      </surface>
+      <surface xml:id="Val404_61r_surf" corresp="#Val404_61r">
+         <graphic width="1024px" height="1515px" url="Val404_61r.jpg"/>
+         <zone n="01" xml:id="Val404_61r_p_01" corresp="#Val404_61r_lb_01" rendition="Line" ulx="89"
+            uly="155" lrx="822" lry="294"/>
+         <zone n="02" xml:id="Val404_61r_p_02" corresp="#Val404_61r_lb_02" rendition="Line" ulx="88"
+            uly="293" lrx="820" lry="1264"/>
+      </surface>
+      <surface xml:id="Val404_61v_surf" corresp="#Val404_61v">
+         <graphic width="1024px" height="1483px" url="Val404_61v.jpg"/>
+         <zone n="01" xml:id="Val404_61v_p_01" corresp="#Val404_61v_lb_01" rendition="Line"
+            ulx="204" uly="152" lrx="944" lry="284"/>
+         <zone n="02" xml:id="Val404_61v_p_02" corresp="#Val404_61v_lb_02" rendition="Line"
+            ulx="189" uly="281" lrx="947" lry="647"/>
+         <zone n="03" xml:id="Val404_61v_p_03" corresp="#Val404_61v_lb_03" rendition="Line"
+            ulx="207" uly="647" lrx="948" lry="855"/>
+         <zone n="04" xml:id="Val404_61v_p_04" corresp="#Val404_61v_lb_04" rendition="Line"
+            ulx="206" uly="811" lrx="926" lry="1104"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div>
+            <head type="main">Valenciennes, Bibliothèque Municipale, 404</head>
+            <lb rend="empty"/>
+            <p>本ウェブページは、自由論題報告「知識をどう体系づけるか？－9世紀のヴァランシエンヌ写本－」の参考資料として大会期間中のみ公開しています。</p>
+            <p>ここでは本報告の主要史料であるヴァランシエンヌ写本（Valenciennes, Bibliothèque Municipale, 404）
+               に現れる学問的論考の全体像と、その翻刻を確認することができます。
+               上部の「Image-Text」ボタンを押し、マウスカーソルを画像の上に合わせると、該当部分の翻刻が連動して表示されます。
+               また、右上の「Diplomatic」を「Interpretative」に変更すると、省略文字が展開されます。</p>
+            <p>翻刻は報告者によるものですが、正確な翻刻の提供を目的とするものではありません。あくまで写本全体のレイアウトの確認用とご理解ください。</p>
+            <p>報告者とは独立して、岩熊幸男氏がこの写本を校訂しています。正確な翻刻はそちらをご参照下さい。</p>
+         </div>
+         <div type="paratext" subtype="references">
+            <list>
+               <item>Bibliothèque nationale de France ed., <hi rend="italic">Catalogue général des
+                     manuscrits des Bibliothèques publiques de France</hi>, vol. 25: Valencienns
+                  (Paris, 1885), p. 365f.</item>
+               <item>Bischoff, Bernhard, <hi rend="italic">Katalog der festländischen Handschriften
+                     des neunten Jahrhunderts</hi>, vol. 3 (Wiesbaden, 2004), p. 400, Item
+                  6392.</item>
+               <item>Costrino, Artur, “Alcuin’s Disputatio de rhetorica: A Critical Edition with
+                  Studies of Aspects of the Text, the Stemma Codicum, the Didactic Diagrams and a
+                  Reinterpretation of Sources for the Problem of the Duality of the Dialogue” (PhD
+                  dissertation: University of York, 2016), p. 129.</item>
+               <item>Van De Vyver, André, “Dicuil et Micon de Saint-Riquier”, <hi rend="italic"
+                     >Revue belge de philologie et d’histoire</hi> 14, no. 1 (1935), pp.
+                  25–47.</item>
+               <item>Yukio, Iwakuma, <ref
+                     target="https://pric.unive.it/projects/logicalia-medievalia/home">Logical
+                     Manuscripts (circa 800-1220) </ref>（校訂はHPMss>Transc>Trifarie1.pdfから入手可能）</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="Valenciennes 404" type="prose" subtype="edition_text">
+            <pb n="57r" xml:id="Val404_57r"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <lb n="" rend="empty"/>
+            <p n="01">
+               <lb facs="#Val404_57r_p_01" xml:id="Val404_57r_lb_01"/>
+               <hi rend="center, uppercase">Theoricus, practicus, loycus</hi>
+            </p>
+            <p n="02"><lb facs="#Val404_57r_p_02" xml:id="Val404_57r_lb_02"/> Philosophia trifaria
+               primo diuiditur, id est in <choice>
+                  <orig>theoric<am>&#x0101;</am></orig>
+                  <reg>theorica<ex>m</ex></reg>
+               </choice>, practicam <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> loy cam.</p>
+            <p n="03"><lb facs="#Val404_57r_p_03" xml:id="Val404_57r_lb_03"/> Sed <choice>
+                  <orig>h<am>&#x00e6;</am></orig>
+                  <reg>h<ex>ae</ex></reg>
+               </choice> tres partes subdiuisiones singulae capiunt isto modo. <seg type="lat_disp"
+                  >Theorica</seg> in tres subdiuiditur in theologica, mathematica, phisica. </p>
+            <p n="04">
+               <lb facs="#Val404_57r_p_04" xml:id="Val404_57r_lb_04"/>
+               <hi rend="center, uppercase">
+                  <choice>
+                     <orig>Pler<orig>&#xf7b2;</orig>q<am>&#x00b7;</am></orig>
+                     <reg>Pleru<ex>m</ex>q<ex>ue</ex></reg>
+                  </choice> non solum disserere, sed disserta quaerere piget.</hi>
+            </p>
+            <pb n="57v" xml:id="Val404_57v"/>
+            <p n="01"><lb facs="#Val404_57v_p_01" xml:id="Val404_57v_lb_01"/>
+               <lb rend="empty"/>Theologica in diuinis rebus. <lb rend="empty"/>Mathematica in
+               ediscendis. <lb rend="empty"/>Phisica in humanis id est naturalibus. </p>
+            <lb n="0"/>
+            <p n="02">
+               <lb facs="#Val404_57v_p_02" xml:id="Val404_57v_lb_02"/>
+               <hi rend="center, uppercase, main">Diuisio theoricae</hi>
+               <hi rend="center">In has tres subdiuiditur.</hi>
+            </p>
+            <lb n="0"/>
+            <p n="04">
+               <lb facs="#Val404_57v_p_04" xml:id="Val404_57v_lb_04"/>
+               <hi rend="center, uppercase">Theorica <lb rend="empty"/>id est <choice>
+                     <orig>cont<am>&#x0113;</am>platiua</orig>
+                     <reg>conte<ex>m</ex>platiua</reg>
+                  </choice></hi>
+            </p>
+            <lb n="0"/>
+            <p n="05">
+               <lb facs="#Val404_57v_p_05" xml:id="Val404_57v_lb_05"/>
+               <hi rend="center, uppercase">Theologica <lb rend="empty"/>in diuinis <choice>
+                     <orig>reb<am>&#x003b;</am></orig>
+                     <reg>reb<ex>us</ex></reg>
+                  </choice></hi>
+            </p>
+            <lb n="0"/>
+            <p n="07">
+               <lb facs="#Val404_57v_p_07" xml:id="Val404_57v_lb_07"/>
+               <hi rend="center, uppercase">Phisica <lb rend="empty"/>in humanis id <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>naruralib<am>&#x003b;</am></orig>
+                     <reg>naturalib<ex>us</ex></reg>
+                  </choice></hi>
+            </p>
+            <p n="03">
+               <lb facs="#Val404_57v_p_03" xml:id="Val404_57v_lb_03"/>
+               <hi rend="center">Naturalis <choice>
+                     <orig>dicit<am>&#x1de3;</am></orig>
+                     <reg>dicit<ex>ur</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>uniuscuiusq<am>&#x00b7;</am></orig>
+                     <reg>uniuscuiusq<ex>ue</ex></reg>
+                  </choice> rei natura qua discutitur quod nihil contra <choice>
+                     <orig>natur<am>&#x0101;</am></orig>
+                     <reg>natura<ex>m</ex></reg>
+                  </choice> geratur.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>,
+                     Prol. 3, 3, ed. Brésard et al., p. 130f.</note></hi>
+            </p>
+            <lb n="0"/>
+            <p n="06">
+               <lb facs="#Val404_57v_p_06" xml:id="Val404_57v_lb_06"/>
+               <hi rend="center, uppercase">Mathematica <lb rend="empty"/>in ediscendis</hi>
+            </p>
+            <p n="08">
+               <lb facs="#Val404_57v_p_08" xml:id="Val404_57v_lb_08"/>
+               <hi rend="center">Harum media id est mathematica in quattuor has partes
+                  subdiuiditur.</hi>
+            </p>
+            <lb n="0"/>
+            <p n="09">
+               <lb facs="#Val404_57v_p_09" xml:id="Val404_57v_lb_09"/>
+               <hi rend="center, uppercase">Geometrica <lb rend="empty"/>in <choice>
+                     <orig>spatior<am>&#x016B;</am></orig>
+                     <reg>spatioru<ex>m</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#x204a;</am></orig>
+                     <reg><ex>et</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>formar<am>&#x016B;</am></orig>
+                     <reg>formaru<ex>m</ex></reg>
+                  </choice> demensione</hi>
+            </p>
+            <lb n="0"/>
+            <p n="10">
+               <lb facs="#Val404_57v_p_10" xml:id="Val404_57v_lb_10"/>
+               <hi rend="center, uppercase">Arithmetica <lb rend="empty"/>ad numeros
+                  cognoscendos</hi>
+            </p>
+            <lb n="0"/>
+            <p n="11">
+               <lb facs="#Val404_57v_p_11" xml:id="Val404_57v_lb_11"/>
+               <hi rend="center, uppercase">Astronomica <lb rend="empty"/>de cognirione
+                  stellarum</hi>
+            </p>
+            <lb n="0"/>
+            <p n="12">
+               <lb facs="#Val404_57v_p_12" xml:id="Val404_57v_lb_12"/>
+               <hi rend="center, uppercase">Musisica(sic) <lb rend="empty"/>in modulatione
+                  sonorum</hi>
+            </p>
+            <pb n="58r" xml:id="Val404_58r"/>
+            <p n="01">
+               <lb facs="#Val404_58r_p_01" xml:id="Val404_58r_lb_01"/>
+               <hi rend="center, uppercase">Uestri nec artus amplius fessi manet scribendo noster
+                  quam animus mansit laborando.</hi>
+            </p>
+            <p n="02">
+               <lb facs="#Val404_58r_p_02" xml:id="Val404_58r_lb_02"/> Multi enim sapietes fieri
+               uolunt, sed <choice>
+                  <orig>labor<am>&#x0113;</am></orig>
+                  <reg>rabore<ex>m</ex></reg>
+               </choice> in <choice>
+                  <orig><am>&#xa751;</am>quirend<am>&#x0101;</am></orig>
+                  <reg>p<ex>er</ex>quirenda<ex>m</ex></reg>
+               </choice> sapientiam adsumere <choice>
+                  <orig><am>&#xa751;</am>timescunt</orig>
+                  <reg><ex>per</ex>timescunt</reg>
+               </choice>.</p>
+            <p n="03">
+               <lb facs="#Val404_58r_p_03" xml:id="Val404_58r_lb_03"/> Theoricae disciplinae ordinem
+               disseruimus. Nunc ad <choice>
+                  <orig>secund<am>&#x0101;</am></orig>
+                  <reg>secunda<ex>m</ex></reg>
+               </choice> partem id est <choice>
+                  <orig>practic<am>&#x0101;</am></orig>
+                  <reg>practica<ex>m</ex></reg>
+               </choice> properemus.</p>
+            <p n="04">
+               <lb facs="#Val404_58r_p_04" xml:id="Val404_58r_lb_04"/> Practica <choice>
+                  <orig>qu<am>&#x0101;</am></orig>
+                  <reg>qua<ex>m</ex></reg>
+               </choice> actualem possumus dicere, in tres subdiuiditur <hi rend="uppercase">in
+                  aethicam</hi> id est moralem, <hi rend="uppercase">in oeconomicam</hi> id est <choice>
+                  <orig>dispensatiu<am>&#x0101;</am></orig>
+                  <reg>dispensatiua<ex>m</ex></reg>
+               </choice>, <hi rend="uppercase">in <choice>
+                     <orig>poletic<am>&#x0101;</am></orig>
+                     <reg>politic<ex>am</ex></reg>
+                  </choice></hi> id est <choice>
+                  <orig>ciuil<am>&#x0113;</am></orig>
+                  <reg>ciuile<ex>m</ex></reg>
+               </choice>.</p>
+            <lb n="0"/>
+            <p n="05">
+               <lb facs="#Val404_58r_p_05" xml:id="Val404_58r_lb_05"/>
+               <hi rend="center, uppercase">Practica <lb rend="empty"/>id est actualis</hi>
+            </p>
+            <p n="06">
+               <lb facs="#Val404_58r_p_06" xml:id="Val404_58r_lb_06"/>
+               <hi rend="center">Actualis <choice>
+                     <orig>h<am>&#x00e6;</am>c</orig>
+                     <reg>h<ex>ae</ex>c</reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice> prima <choice>
+                     <orig>qu<am>&#x0119;</am></orig>
+                     <reg>qu<ex>a</ex>e</reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>c<am>&#x014d;</am>munis</orig>
+                     <reg>co<ex>m</ex>munis</reg>
+                  </choice>
+                  <choice>
+                     <orig>omnib<am>&#x003b;</am></orig>
+                     <reg>omnib<ex>us</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>fidelib<am>&#x003b;</am></orig>
+                     <reg>fidelib<ex>us</ex></reg>
+                  </choice>. Actualis in multas <choice>
+                     <orig><am>&#xa753;</am>fessiones</orig>
+                     <reg>p<ex>ro</ex>fessiones</reg>
+                  </choice>
+                  <choice>
+                     <orig>&amp;</orig>
+                     <reg><ex>et</ex></reg>
+                  </choice> studia <choice>
+                     <orig>diriuat<am>&#x1de3;</am></orig>
+                     <reg>diriuat<ex>ur</ex></reg>
+                  </choice>, ut <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice> esuriui <choice>
+                     <orig><am>&#x0026;</am></orig>
+                     <reg><ex>et</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#xe5dc;</am></orig>
+                     <reg>n<ex>on</ex></reg>
+                  </choice> dedistis mihi, manducare <choice>
+                     <orig><am>&#x0026;</am></orig>
+                     <reg><ex>et</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>c<am>&#x0026;&#x0305;</am></orig>
+                     <reg>c<ex>etera</ex></reg>
+                  </choice> officia pietatis <choice>
+                     <orig>h<am>&#x00e6;</am>c</orig>
+                     <reg>h<ex>ae</ex>c</reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice> fides uera, <choice>
+                     <orig><am>&#xe8b3;</am></orig>
+                     <reg>q<ex>uia</ex></reg>
+                  </choice> illa sterilis <choice>
+                     <orig>d<am>&#x0119;</am>monum</orig>
+                     <reg>d<ex>a</ex>emonum</reg>
+                  </choice> est.<note>cf. Cassianus, <hi rend="italic">Collationes</hi>, XIV, viii,
+                     1, CSEL13, p. 404</note></hi>
+            </p>
+            <lb n="0"/>
+            <p n="07">
+               <lb facs="#Val404_58r_p_07" xml:id="Val404_58r_lb_07"/>
+               <hi rend="center, uppercase">Ethica <lb rend="empty"/>id est moralis</hi>
+            </p>
+            <p n="08">
+               <lb facs="#Val404_58r_p_08" xml:id="Val404_58r_lb_08"/>
+               <hi rend="center">Moralis autem dicitur per quam mos uiuendi honestior aptatur <choice>
+                     <orig><am>&#x0026;</am></orig>
+                     <reg><ex>et</ex></reg>
+                  </choice> instituta ad <choice>
+                     <orig>uirtut<am>&#x0113;</am></orig>
+                     <reg>uirtute<ex>m</ex></reg>
+                  </choice> tendentia.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>,
+                     Prol. 3, 3, ed. Brésard et al., p. 130f.</note></hi>
+            </p>
+            <lb n="0"/>
+            <p n="09">
+               <lb facs="#Val404_58r_p_09" xml:id="Val404_58r_lb_09"/>
+               <hi rend="center, uppercase">Eoconomica <lb rend="empty"/>id est Dispensatiua</hi>
+            </p>
+            <lb n="0"/>
+            <p n="10">
+               <lb facs="#Val404_58r_p_10" xml:id="Val404_58r_lb_10"/>
+               <hi rend="center, uppercase">Politica <lb rend="empty"/>id est ciuilis</hi>
+            </p>
+            <pb n="58v" xml:id="Val404_58v"/>
+            <p n="01">
+               <lb facs="#Val404_58v_p_01" xml:id="Val404_58v_lb_01"/>
+               <hi rend="center, uppercase">Practica inspectiua</hi>
+            </p>
+            <lb n="0"/>
+            <p n="02">
+               <lb facs="#Val404_58v_p_02" xml:id="Val404_58v_lb_02"/>
+               <hi rend="uppercase">Inspectiua</hi>, <choice>
+                  <orig>qu<am>&#x0119;</am></orig>
+                  <reg>qu<ex>a</ex>e</reg>
+               </choice> iam post<del>e</del> priora exerci<del>ti</del>tia inspicit <choice>
+                  <orig><am>&#xa749;</am></orig>
+                  <reg><ex>ue</ex>l</reg>
+               </choice>
+               <choice>
+                  <orig>cont<am>&#x0113;</am>platur</orig>
+                  <reg>conte<ex>m</ex>platur</reg>
+               </choice> non ea <choice>
+                  <orig>qu<am>&#x0119;</am></orig>
+                  <reg>qu<ex>a</ex>e</reg>
+               </choice> uidentur sed <choice>
+                  <orig>qu<am>&#x0119;</am></orig>
+                  <reg>qu<ex>a</ex>e</reg>
+               </choice> non uidentur, ut est <choice>
+                  <orig><am>&#xa759;</am></orig>
+                  <reg>q<ex>uod</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#x10199;</am></orig>
+                  <reg><ex>enim</ex></reg>
+               </choice>
+               <choice>
+                  <orig>uid<am>&#x0026;</am></orig>
+                  <reg>uid<ex>et</ex></reg>
+               </choice> quis <choice>
+                  <orig><am>&#xa757;</am>d</orig>
+                  <reg>q<ex>ui</ex>d</reg>
+               </choice> sperat. Si <choice>
+                  <orig>aut<am>&#x0113;</am></orig>
+                  <reg>aute<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xe5dc;</am></orig>
+                  <reg>n<ex>on</ex></reg>
+               </choice> uidemus <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice>
+               <choice>
+                  <orig>patienti<am>&#x0101;</am></orig>
+                  <reg>patientia<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>specta<am>&#xa773;</am></orig>
+                  <reg>spectam<ex>us</ex></reg>
+               </choice>, <choice>
+                  <orig><am>&#xe681;</am></orig>
+                  <reg>q<ex>uae</ex></reg>
+               </choice>
+               <choice>
+                  <orig>s<am>&#x0113;</am><am>&#xa751;</am></orig>
+                  <reg>se<ex>m</ex>p<ex>er</ex></reg>
+               </choice> manent sicuti <choice>
+                  <orig><am>&#xeada;&#x0304;</am></orig>
+                  <reg>s<ex>un</ex>t</reg>
+               </choice> ad <choice>
+                  <orig><am>&#xe681;</am></orig>
+                  <reg>q<ex>uae</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice>
+               <choice>
+                  <orig>x<am>&#xe665;</am>i</orig>
+                  <reg>Christi</reg>
+               </choice>
+               <choice>
+                  <orig>fid<am>&#xe5b8;</am></orig>
+                  <reg>fid<ex>e</ex>m</reg>
+               </choice> rationalis animae inuita<del>n</del>tur. <choice>
+                  <orig><am>&#xe517;</am></orig>
+                  <reg>h<ex>aec</ex></reg>
+               </choice>
+               <choice>
+                  <orig>diuidit<am>&#x1de3;</am></orig>
+                  <reg>diuidit<ex>ur</ex></reg>
+               </choice> in <choice>
+                  <orig>histori<am>&#x0101;</am></orig>
+                  <reg>histria<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> spiritalem <choice>
+                  <orig>intellegct<am>&#x016b;</am></orig>
+                  <reg>intellegentu<ex>m</ex></reg>
+               </choice>. </p>
+            <p n="03">
+               <lb facs="#Val404_58v_p_03" xml:id="Val404_58v_lb_03"/>
+               <hi rend="center">Inspectiua dicitur, quia <choice>
+                     <orig>su<am>&#xa751;</am>gressi</orig>
+                     <reg>sup<ex>er</ex>gressi</reg>
+                  </choice> uisibilia de diuinis aliquid <choice>
+                     <orig><am>&#x0026;</am></orig>
+                     <reg><ex>et</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>c<am>&#x00e6;</am>lestib<am>&#x003b;</am></orig>
+                     <reg>c<ex>ae</ex>lestib<ex>us</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>cont<am>&#x0113;</am>plamur</orig>
+                     <reg>conte<ex>m</ex>plamur</reg>
+                  </choice> ea <choice>
+                     <orig>qu<am>&#x0119;</am></orig>
+                     <reg>qu<ex>a</ex>e</reg>
+                  </choice> mente sola intuemur <choice>
+                     <orig>quoni<am>&#x0101;</am></orig>
+                     <reg>quonia<ex>m</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>c<am>&#xe8ae;</am>p<am>&#xe8ae;</am>e<am>&#x016b;</am></orig>
+                     <reg>co<ex>r</ex>po<ex>r</ex>eu<ex>m</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>supergrediunt<am>&#x1de3;</am></orig>
+                     <reg>supergrediunt<ex>ur</ex></reg>
+                  </choice> aspectum.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>,
+                     Prol, iii, 3, ed. Brésard et al., p. 131f.; Cassiodorus, <hi rend="italic"
+                        >Institutiones</hi>, II, iii, 6, ed. Mynors, p. 111 (Cassiodorus's text is
+                     derived from Rufinus's translation)</note></hi>
+            </p>
+            <lb n="0"/>
+            <p n="04">
+               <lb facs="#Val404_58v_p_04" xml:id="Val404_58v_lb_04"/>
+               <hi rend="center"><hi rend="uppercase">Historia. </hi>Doctrina <choice>
+                     <orig>histori<am>&#x00e6;</am></orig>
+                     <reg>histori<ex>ae</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>ordin<am>&#x0113;</am></orig>
+                     <reg>ordine<ex>m</ex></reg>
+                  </choice> simpliciter pandit, in qua nullus <choice>
+                     <orig>occult<am>&#xf1c7;</am></orig>
+                     <reg>occult<ex>us</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>intellect<am>&#xf1c7;</am></orig>
+                     <reg>intellect<ex>us</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice> nisi qui uerbis resonat, ut <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice> tradidi uobis <choice>
+                     <orig><am>&#xe681;</am></orig>
+                     <reg>q<ex>uae</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#x0026;</am></orig>
+                     <reg><ex>et</ex></reg>
+                  </choice> accepistis <choice>
+                     <orig><am>&#xe8b3;</am></orig>
+                     <reg>q<ex>uia</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>x<am>&#xe665;</am>s</orig>
+                     <reg>Christus</reg>
+                  </choice> mortuus <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice>, <choice>
+                     <orig><am>&#x0026;</am></orig>
+                     <reg><ex>et</ex></reg>
+                  </choice> misit <choice>
+                     <orig>d<am>&#xa785;</am><am>&#x0304;</am></orig>
+                     <reg>d<ex>eu</ex>s</reg>
+                  </choice>
+                  <choice>
+                     <orig>fili<am>&#x016b;</am></orig>
+                     <reg>filiu<ex>m</ex></reg>
+                  </choice> summ <choice>
+                     <orig>fact<am>&#x016b;</am></orig>
+                     <reg>factu<ex>m</ex></reg>
+                  </choice> ex muliere, <choice>
+                     <orig><am>&#x0026;</am></orig>
+                     <reg><ex>et</ex></reg>
+                  </choice> audi israhel <choice>
+                     <orig>d<am>&#xe5dc;</am><am>&#xa785;</am></orig>
+                     <reg>d<ex>omi</ex>n<ex>u</ex>s</reg>
+                  </choice>
+                  <choice>
+                     <orig>d<am>&#xa785;</am><am>&#x0304;</am></orig>
+                     <reg>d<ex>eu</ex>s</reg>
+                  </choice> tuus <choice>
+                     <orig>d<am>&#xa785;</am><am>&#x0304;</am></orig>
+                     <reg>d<ex>eu</ex>s</reg>
+                  </choice> unus est.<note>cf. Cassianus, <hi rend="italic">Collationes</hi>, XIV,
+                     viii, 7, CSEL13, p. 406f.</note></hi>
+            </p>
+            <lb n="0"/>
+            <p n="05">
+               <lb facs="#Val404_58v_p_05" xml:id="Val404_58v_lb_05"/>
+               <hi rend="center, uppercase">Spiritalis <lb rend="empty"/>intellectus</hi>
+            </p>
+            <pb n="59r" xml:id="Val404_59r"/>
+            <p n="01">
+               <lb facs="#Val404_59r_p_01" xml:id="Val404_59r_lb_01"/>
+               <hi rend="center, uppercase">Practica inspectiva</hi>
+            </p>
+            <lb n="0"/>
+            <p n="02">
+               <lb facs="#Val404_59r_p_02" xml:id="Val404_59r_lb_02"/>
+               <hi rend="uppercase">Spiritalis in tribus diuiditur, in <choice>
+                     <orig>tropologic<am>&#x0101;</am></orig>
+                     <reg>tropologica<ex>m</ex></reg>
+                  </choice>, in <choice>
+                     <orig>allegori<am>&#x0101;</am></orig>
+                     <reg>allegoria<ex>m</ex></reg>
+                  </choice>, in anagogen.</hi>
+            </p>
+            <lb n="0"/>
+            <p n="03">
+               <lb facs="#Val404_59r_p_03" xml:id="Val404_59r_lb_03"/>
+               <hi rend="center, uppercase">Spiritalis <lb rend="empty"/>in has tes
+                  subdiuiditur</hi>
+            </p>
+            <lb n="0"/>
+            <p n="07">
+               <lb facs="#Val404_59r_p_07" xml:id="Val404_59r_lb_07"/>
+               <hi rend="center, uppercase">Tropologia <lb rend="empty"/><choice>
+                     <orig>mor<am>&#x016b;</am></orig>
+                     <reg>moru<ex>m</ex></reg>
+                  </choice> compositio dicitur</hi>
+            </p>
+            <p n="04">
+               <lb facs="#Val404_59r_p_04" xml:id="Val404_59r_lb_04"/>
+               <hi rend="center">Scientia <choice>
+                     <orig>tripologi<am>&#x00e6;</am></orig>
+                     <reg>tropologi<ex>ae</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice> uniuersa <choice>
+                     <orig>qu<am>&#x0119;</am></orig>
+                     <reg>qu<ex>a</ex>e</reg>
+                  </choice> ad <choice>
+                     <orig>dissertion<am>&#x0113;</am></orig>
+                     <reg>dissertione<ex>m</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#xa751;</am>tinent</orig>
+                     <reg>p<ex>er</ex>tinent</reg>
+                  </choice>
+                  <choice>
+                     <orig>actual<am>&#x0113;</am></orig>
+                     <reg>actuale<ex>m</ex></reg>
+                  </choice>, <choice>
+                     <orig>utr<am>&#x016b;</am></orig>
+                     <reg>utru<ex>m</ex></reg>
+                  </choice> uitiata <choice>
+                     <orig><am>&#xa749;</am></orig>
+                     <reg><ex>ue</ex>l</reg>
+                  </choice> honesta sint prudenti examinatione discernere ut <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice> illud, <choice>
+                     <orig>c<am>&#x016b;</am></orig>
+                     <reg>cu<ex>m</ex></reg>
+                  </choice> apud <choice>
+                     <orig>nosm<am>&#x0026;</am></orig>
+                     <reg>nosm<ex>et</ex></reg>
+                  </choice> ipsos iudicare <choice>
+                     <orig><am>&#xe665;</am>cipim<am>&#x1de3;</am></orig>
+                     <reg>p<ex>rae</ex>cipim<ex>ur</ex></reg>
+                  </choice>, <choice>
+                     <orig>utr<am>&#x016b;</am></orig>
+                     <reg>utru<ex>m</ex></reg>
+                  </choice> deceat <choice>
+                     <orig>mulier<am>&#x0113;</am></orig>
+                     <reg>muliere<ex>m</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig><am>&#xe5dc;</am></orig>
+                     <reg>n<ex>on</ex></reg>
+                  </choice> uelato capite orare <choice>
+                     <orig>d<am>&#xe5b8;</am></orig>
+                     <reg>d<ex>eu</ex>m</reg>
+                  </choice>, <choice>
+                     <orig>qu<am>&#x0119;</am></orig>
+                     <reg>qu<ex>a</ex>e</reg>
+                  </choice> ratio <choice>
+                     <orig>moral<am>&#x0113;</am></orig>
+                     <reg>molare<ex>m</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>contin<am>&#x0026;</am></orig>
+                     <reg>contin<ex>et</ex></reg>
+                  </choice> intellectum.<note>cf. Cassianus, <hi rend="italic">Collationes</hi>,
+                     XIV, viii, 6, CSEL13, p. 406</note></hi>
+            </p>
+            <lb n="0"/>
+            <p n="08">
+               <lb facs="#Val404_59r_p_08" xml:id="Val404_59r_lb_08"/>
+               <hi rend="center, uppercase">Alligoria(sic) <lb rend="empty"/>dicitur dictio
+                  figurata</hi>
+            </p>
+            <p n="05">
+               <lb facs="#Val404_59r_p_05" xml:id="Val404_59r_lb_05"/>
+               <hi rend="center">Reueratio ad <choice>
+                     <orig>allegori<am>&#x0101;</am></orig>
+                     <reg>allegoria<ex>m</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>pertin<am>&#x0026;</am></orig>
+                     <reg>pertin<ex>et</ex></reg>
+                  </choice> ut est <choice>
+                     <orig>q<am>&#xe5b8;</am></orig>
+                     <reg>q<ex>ua</ex>m</reg>
+                  </choice> patres nostri sub nube fuerunt.<note> Cassianus, <hi rend="italic"
+                        >Collationes</hi>, XIV, viii, 5, CSEL13, p. 405f.</note></hi>
+            </p>
+            <lb n="0"/>
+            <p n="09">
+               <lb facs="#Val404_59r_p_09" xml:id="Val404_59r_lb_09"/>
+               <hi rend="center, uppercase">Anagogen <lb rend="empty"/>id est ad superna ducens</hi>
+            </p>
+            <p n="06">
+               <lb facs="#Val404_59r_p_06" xml:id="Val404_59r_lb_06"/>
+               <hi rend="center"><choice>
+                     <orig>Proph<am>&#x0026;</am>ia</orig>
+                     <reg>Proph<ex>et</ex>ia</reg>
+                  </choice> quam tertio loco intulit, ad anagogen <choice>
+                     <orig><am>&#xa751;</am></orig>
+                     <reg>p<ex>er</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>qu<am>&#x0101;</am></orig>
+                     <reg>qua<ex>m</ex></reg>
+                  </choice> ad inuisibilia ac futura sermo <choice>
+                     <orig>d<am>&#x012b;</am></orig>
+                     <reg>d<ex>e</ex>i</reg>
+                  </choice> transfertur, ut <choice>
+                     <orig><am>&#x0113;</am></orig>
+                     <reg>e<ex>st</ex></reg>
+                  </choice> , nolumus uos ignorare fratres de <choice>
+                     <orig>dormientib<am>&#x003b;</am></orig>
+                     <reg>dormientib<ex>us</ex></reg>
+                  </choice>. <choice>
+                     <orig>Qu<am>&#x0119;</am></orig>
+                     <reg>Qu<ex>a</ex>e</reg>
+                  </choice> exhortationis specie anagogen figura <choice>
+                     <orig>pr<am>&#x00e6;</am>fertur</orig>
+                     <reg>pr<ex>ae</ex>fertur</reg>
+                  </choice>.<note>Cassianus, <hi rend="italic">Collationes</hi>, XIV, viii, 6,
+                     CSEL13, p. 406</note></hi>
+            </p>
+            <pb n="59v" xml:id="Val404_59v"/>
+            <p n="01">
+               <lb facs="#Val404_59v_p_01" xml:id="Val404_59v_lb_01"/> Hae quattuor partes possunt
+               id est historia, tropologia, allegoria, anagogen, in uno conuenire, ut est,
+               Hierusalem secundum <choice>
+                  <orig>histori<am>&#x0101;</am></orig>
+                  <reg>historia<ex>m</ex></reg>
+               </choice> ciuitas <choice>
+                  <orig>iudaeor<am>&#x016b;</am></orig>
+                  <reg>iudaeoru<ex>m</ex></reg>
+               </choice>. <choice>
+                  <orig>Secund<am>&#x016b;</am></orig>
+                  <reg>secundu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>allegori&#x0101;</orig>
+                  <reg>allegoria<ex>m</ex></reg>
+               </choice>, <choice>
+                  <orig><am>&#x00e6;</am>cclesia</orig>
+                  <reg><ex>ae</ex>cclesia</reg>
+               </choice>
+               <choice>
+                  <orig>x<am>&#xe665;</am>i</orig>
+                  <reg>Christi</reg>
+               </choice>. <choice>
+                  <orig>Secund<am>&#x016b;</am></orig>
+                  <reg>Secundu<ex>m</ex></reg>
+               </choice> anagogen, ciuitas <choice>
+                  <orig>d<am>&#x012b;</am></orig>
+                  <reg>d<ex>e</ex>i</reg>
+               </choice> illa caelestis, <choice>
+                  <orig>qu<am>&#x0119;</am></orig>
+                  <reg>qu<ex>a</ex>e</reg>
+               </choice> est mater <choice>
+                  <orig>omni<am>&#x016b;</am></orig>
+                  <reg>omniu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>n<am>r&#x0304;</am>m</orig>
+                  <reg>n<ex>osto</ex>rm</reg>
+               </choice>. <choice>
+                  <orig>Secund<am>&#x016b;</am></orig>
+                  <reg>secundu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>tropologi<am>&#x0101;</am></orig>
+                  <reg>tropologia<ex>m</ex></reg>
+               </choice>, uero anima hominis <choice>
+                  <orig>qu<am>&#x00e6;</am></orig>
+                  <reg>qu<ex>ae</ex></reg>
+               </choice> frequenter hoc inter praetatur aut laudatur a <choice>
+                  <orig>dn<am>&#x014d;</am></orig>
+                  <reg>d<ex>omi</ex>no</reg>
+               </choice>. De his ergo apostolus, si uenero inquit ad uos linguis loquens, quid uobis
+               prodero nisi uobis prodero aut in reuelatione, aut in scientia, aut in <choice>
+                  <orig>proph<am>&#x0026;</am>ia</orig>
+                  <reg>proph<ex>et</ex>ia</reg>
+               </choice>, aut in doctrina. <note>Cassianus, <hi rend="italic">Collationes</hi>, XIV,
+                  viii, 4, CSEL13, p. 405</note>
+            </p>
+            <p n="02">
+               <lb facs="#Val404_59v_p_02" xml:id="Val404_59v_lb_02"/>
+               <hi rend="uppercase"><choice>
+                     <orig>Practic<am>&#x0101;</am></orig>
+                     <reg>Practica<ex>m</ex></reg>
+                  </choice></hi>
+               <choice>
+                  <orig>ration<am>&#x0113;</am></orig>
+                  <reg>ratione<ex>m</ex></reg>
+               </choice> iuxta quod ualuimus disseruimus, nunc ad <choice>
+                  <orig>terti<am>&#x0101;</am></orig>
+                  <reg>tertia<ex>m</ex></reg>
+               </choice> partem id est <choice>
+                  <orig>loic<am>&#x0101;</am></orig>
+                  <reg>loica<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>disserend<am>&#x0101;</am></orig>
+                  <reg>disserenda<ex>m</ex></reg>
+               </choice> properemus.</p>
+            <p n="03">
+               <lb facs="#Val404_59v_p_03" xml:id="Val404_59v_lb_03"/>
+               <hi rend="center, uppercase"><choice>
+                     <orig>Mult<am>&#x016b;</am></orig>
+                     <reg>Multu<ex>m</ex></reg>
+                  </choice> laboramus, sed <choice>
+                     <orig>utin<am>&#x0101;</am></orig>
+                     <reg>utina<ex>m</ex></reg>
+                  </choice> laboris <choice>
+                     <orig>fruct<am>&#x016b;</am></orig>
+                     <reg>fructu<ex>m</ex></reg>
+                  </choice> tandem perceperimus.</hi>
+            </p>
+            <lb n="0"/>
+            <p n="04">
+               <lb facs="#Val404_59v_p_04" xml:id="Val404_59v_lb_04"/>
+               <hi rend="center, uppercase">Loica id est rationalis trifario modo subdiuiditur.</hi>
+            </p>
+            <p n="05">
+               <lb facs="#Val404_59v_p_05" xml:id="Val404_59v_lb_05"/>
+               <lb rend="empty"/>In <choice>
+                  <orig>dialectic<am>&#x0101;</am></orig>
+                  <reg>dialectica<ex>m</ex></reg>
+               </choice> id est <choice>
+                  <orig>disp<del>o</del>utatori<am>&#x0101;</am></orig>
+                  <reg>disputatoria<ex>m</ex></reg>
+               </choice>.<lb rend="empty"/>In <choice>
+                  <orig>epidictic<am>&#x0101;</am></orig>
+                  <reg>epidictica<ex>m</ex></reg>
+               </choice> id est demonstratiuam.<lb rend="empty"/>In sophisticam id est <choice>
+                  <orig>fraud<del>o</del>ulent<am>&#x0101;</am></orig>
+                  <reg>fraudulentia<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> fictam.</p>
+            <pb n="60r" xml:id="Val404_60r"/>
+            <p n="02">
+               <lb facs="#Val404_60r_p_02" xml:id="Val404_60r_lb_02"/>
+               <hi rend="center, uppercase">Loica id est <lb rend="empty"/>rationalis <lb
+                     rend="empty"/>in has tres subdiuiditur</hi>
+            </p>
+            <p n="01">
+               <lb facs="#Val404_60r_p_01" xml:id="Val404_60r_lb_01"/>
+               <hi rend="center">Est enim loica haec uelut nos dicamus rationalis <choice>
+                     <orig>qu<am>&#x0119;</am></orig>
+                     <reg>qu<ex>a</ex>e</reg>
+                  </choice>
+                  <choice>
+                     <orig>uerb<am>&#xefba;</am></orig>
+                     <reg>uerbo<ex>rum</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>dict<am>&#xefba;</am></orig>
+                     <reg>dicto<ex>rum</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>uidet<am>&#x1de3;</am></orig>
+                     <reg>uidet<ex>ur</ex></reg>
+                  </choice> continere rariones.<note>Origenes, <hi rend="italic">Comm. in Cant.
+                        cant.</hi>, Prol. 3, 2, ed. Brésard et al., p. 129f.</note></hi>
+            </p>
+            <lb n=""/>
+            <p n="03">
+               <lb facs="#Val404_60r_p_03" xml:id="Val404_60r_lb_03"/>
+               <hi rend="center, uppercase">In <choice>
+                     <orig>dialectic<am>&#x0101;</am></orig>
+                     <reg>dialectica<ex>m</ex></reg>
+                  </choice>
+                  <lb rend="empty"/>id est disputatorum</hi>
+            </p>
+            <lb n="0"/>
+            <p n="04">
+               <lb facs="#Val404_60r_p_04" xml:id="Val404_60r_lb_04"/>
+               <hi rend="center, uppercase">In <choice>
+                     <orig>epidictic<am>&#x0101;</am></orig>
+                     <reg>epidictica<ex>m</ex></reg>
+                  </choice>
+                  <lb rend="empty"/>id est demonstratiuam</hi>
+            </p>
+            <lb n="0"/>
+            <p n="05">
+               <lb facs="#Val404_60r_p_05" xml:id="Val404_60r_lb_05"/>
+               <hi rend="center, uppercase">In <choice>
+                     <orig>sophistic<am>&#x0101;</am></orig>
+                     <reg>sophistica<ex>m</ex></reg>
+                  </choice>
+                  <lb rend="empty"/>id est <choice>
+                     <orig>fraudulent<am>&#x0101;</am></orig>
+                     <reg>fraudulenta<ex>m</ex></reg>
+                  </choice></hi>
+            </p>
+            <lb n="0"/>
+            <p n="06">
+               <lb facs="#Val404_60r_p_06" xml:id="Val404_60r_lb_06"/>
+               <hi rend="center, uppercase">Item quae ex his Origenis in <choice>
+                     <orig>cantic<am>&#x016b;</am></orig>
+                     <reg>canticu<ex>m</ex></reg>
+                  </choice>
+                  <choice>
+                     <orig>canticor<am>&#xf7b2;</am></orig>
+                     <reg>canticorv<ex>m</ex></reg>
+                  </choice> dixerit <choice>
+                     <orig>inserend<am>&#x016b;</am></orig>
+                     <reg>inserendu<ex>m</ex></reg>
+                  </choice> esse putauimus.</hi>
+            </p>
+            <p n="07">
+               <lb facs="#Val404_60r_p_07" xml:id="Val404_60r_lb_07"/> Temptemus inquit prius de eo
+               requirere quid illud sit quod cum tria uolumia ecclesiae <choice>
+                  <orig>d<am>&#x012b;</am></orig>
+                  <reg>d<ex>e</ex>i</reg>
+               </choice> a salomone scripta susciperint. Primus ex ipsis <choice>
+                  <orig>prouerbior<am>&#x016b;</am></orig>
+                  <reg>prouerbioru<ex>m</ex></reg>
+               </choice>, secundus is qui ecclesiastes appellatur, tertio uero in loco cantica <choice>
+                  <orig>canticor<am>&#x016b;</am></orig>
+                  <reg>canticoru<ex>m</ex></reg>
+               </choice> uolumen habetur. <choice>
+                  <orig>Qu<am>&#x0119;</am></orig>
+                  <reg>Qu<ex>a</ex>e</reg>
+               </choice> ergo nobis occurrere possunt in loco, ista sunt generales disciplinae, <choice>
+                  <orig>quib<am>&#x003b;</am></orig>
+                  <reg>quib<ex>us</ex></reg>
+               </choice> ad rerum scientiam <choice>
+                  <orig><am>&#xa751;</am>uenitur</orig>
+                  <reg>p<ex>er</ex>uenitur</reg>
+               </choice>, tres sunt quas greci <hi rend="uppercase">aethicam, phisicam, <choice>
+                     <orig>practic<am>&#x0101;</am></orig>
+                     <reg>practica<ex>m</ex></reg>
+                  </choice></hi>
+               <choice>
+                  <orig>appellart<am>&#x0304;</am></orig>
+                  <reg>appellar<ex>un</ex>t</reg>
+               </choice>. Has nos dicere possumus <hi rend="uppercase">moralem, <choice>
+                     <orig>natural<am>&#x0113;</am></orig>
+                     <reg>naturale<ex>m</ex></reg>
+                  </choice>, <choice>
+                     <orig>inspectiv<am>&#x0101;</am></orig>
+                     <reg>inspectiva<ex>m</ex></reg>
+                  </choice>.</hi><note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol.
+                  3, 1, ed. Brésard et al., p. 129f.</note></p>
+            <pb n="60v" xml:id="Val404_60v"/>
+            <p n="01">
+               <lb facs="#Val404_60v_p_01" xml:id="Val404_60v_lb_01"/> Non nulli sane apud grecos <choice>
+                  <orig><am>&#x0026;</am>iam</orig>
+                  <reg><ex>et</ex>iam</reg>
+               </choice>
+               <hi rend="uppercase">λoγιen</hi>, <choice>
+                  <orig>qu<am>&#x0101;</am></orig>
+                  <reg>qua<ex>m</ex></reg>
+               </choice> nos <hi rend="uppercase">rationalem</hi> possumus dicere qua<add
+                  place="above">r</add>to <add place="above">in</add> numero posuere<note>Origenes,
+                     <hi rend="italic">Comm. in Cant. cant.</hi>, Prol. 3, 1, ed. Brésard et al., p.
+                  129f.</note> non extrinsecus eam sed <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice> has tres quas supra memorauimus disciplinas innexam <choice>
+                  <orig>consertamq<am>&#x00b7;</am></orig>
+                  <reg>consertamp<ex>ue</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#x014d;</am>ne</orig>
+                  <reg>o<ex>m</ex>ne</reg>
+               </choice>
+               <choice>
+                  <orig>c<am>&#xe8ae;</am>pus</orig>
+                  <reg>co<ex>r</ex>pus</reg>
+               </choice> esse dixerunt.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>,
+                  Prol. 3, 2, ed. Brésard et al., p. 129f.</note>
+            </p>
+            <p n="02">
+               <lb facs="#Val404_60v_p_02" xml:id="Val404_60v_lb_02"/> Est enim <hi rend="uppercase"
+                  >loica</hi>, haec uelut nos dicamus <hi rend="uppercase">rationalis</hi> quae <choice>
+                  <orig>uerbor<am>&#x016b;</am></orig>
+                  <reg>uerboru<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>dictor<am>&#x016b;</am></orig>
+                  <reg>dictoru<ex>m</ex></reg>
+               </choice> uidetur continere rationes, <choice>
+                  <orig>qu<am>&#x0101;</am></orig>
+                  <reg>qua<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>utiq<am>&#x00b7;</am></orig>
+                  <reg>utiq<ex>ue</ex></reg>
+               </choice> disciplinam non tam separari <choice>
+                  <orig>qu<am>&#x0101;</am></orig>
+                  <reg>qua<ex>m</ex></reg>
+               </choice> inseri <choice>
+                  <orig>c<am>&#x0119;</am>teris</orig>
+                  <reg>c<ex>a</ex>eteris</reg>
+               </choice> conuenit <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> in texi.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol.
+                  3, 2, ed. Brésard et al., p. 129f.</note>
+            </p>
+            <p n="03">
+               <lb facs="#Val404_60v_p_03" xml:id="Val404_60v_lb_03"/>
+               <hi rend="uppercase">Moralis</hi> autem dicitur <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice>
+               <choice>
+                  <orig>qu<am>&#x0101;</am></orig>
+                  <reg>qua<ex>m</ex></reg>
+               </choice> mos uiuendi honestior aptatur <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> instituta ad uirtutem tendentia.<note>Origenes, <hi rend="italic">Comm. in
+                     Cant. cant.</hi>, Prol. 3, 3, ed. Brésard et al., p. 129f.</note></p>
+            <p n="04">
+               <lb facs="#Val404_60v_p_04" xml:id="Val404_60v_lb_04"/>
+               <hi rend="uppercase">Naturalis</hi> dicitur unius <choice>
+                  <orig>cuiusq<am>&#x00b7;</am></orig>
+                  <reg>cuiusq<ex>ue</ex></reg>
+               </choice> rei natura discutitur quod nihil contra <choice>
+                  <orig>natur<am>&#x0101;</am></orig>
+                  <reg>natura<ex>m</ex></reg>
+               </choice> geratur.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol.
+                  3, 3, ed. Brésard et al., p. 129f.</note>
+            </p>
+            <p n="05">
+               <lb facs="#Val404_60v_p_05" xml:id="Val404_60v_lb_05"/>
+               <hi rend="uppercase">Inspectiua</hi> dicitur qua <choice>
+                  <orig>su<am>&#xa751;</am>gressi</orig>
+                  <reg>sup<ex>er</ex>gressi</reg>
+               </choice> uisibilia de diuinis aliquid <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice>
+               <choice>
+                  <orig>caelestib<am>&#x003b;</am></orig>
+                  <reg>caelestib<ex>us</ex></reg>
+               </choice> contemplamur, <choice>
+                  <orig>eaq<am>&#x00b7;</am></orig>
+                  <reg>eaq<ex>ue</ex></reg>
+               </choice> mente sola intuemur, <choice>
+                  <orig>q<am>&#xe5b8;</am></orig>
+                  <reg>q<ex>uonia</ex>m</reg>
+               </choice>
+               <choice>
+                  <orig>corpore<am>&#x016b;</am></orig>
+                  <reg>corporeu<ex>m</ex></reg>
+               </choice> supergrediuntur aspectum.<note>Origenes, <hi rend="italic">Comm. in Cant.
+                     cant.</hi>, Prol. 3, 3, ed. Brésard et al., p. 129f.</note>
+            </p>
+            <p n="06">
+               <lb facs="#Val404_60v_p_06" xml:id="Val404_60v_lb_06"/> Hae<add place="above">c</add>
+               ergo ut mihi uidetur sapientes <choice>
+                  <orig>quiq<am>&#x00b7;</am></orig>
+                  <reg>quiq<ex>ue</ex></reg>
+               </choice>
+               <choice>
+                  <orig>grec<am>&#xefba;</am></orig>
+                  <reg>greco<ex>rum</ex></reg>
+               </choice>
+               <choice>
+                  <orig>s<am>&#x016b;</am>pta</orig>
+                  <reg>su<ex>m</ex>pta</reg>
+               </choice> a salomone ut pote quia aetate <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> tempore longe ante ipsos prior ea <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice>
+               <choice>
+                  <orig>d<am>&#x012b;</am></orig>
+                  <reg>d<ex>e</ex>i</reg>
+               </choice>
+               <choice>
+                  <orig>sp<am>&#xe5b8;</am></orig>
+                  <reg>sp<ex>iritu</ex>m</reg>
+               </choice>
+               <choice>
+                  <orig>didiciss<am>&#x0026;</am></orig>
+                  <reg>didiciss<ex>et</ex></reg>
+               </choice>.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol. 3, 4,
+                  ed. Brésard et al., p. 130f.</note> Tres ergo istas quas supra diximus disciplinas <choice>
+                  <orig>trib<am>&#x003b;</am></orig>
+                  <reg>trib<ex>us</ex></reg>
+               </choice> eas libellis edidit.<note>Origenes, <hi rend="italic">Comm. in Cant.
+                     cant.</hi>, Prol. 3, 5, ed. Brésard et al., p. 132f.</note></p>
+            <p n="07">
+               <lb facs="#Val404_60v_p_07" xml:id="Val404_60v_lb_07"/> Primo in prouerbiis <choice>
+                  <orig>moral<am>&#x0113;</am></orig>
+                  <reg>morale<ex>m</ex></reg>
+               </choice> docuit <choice>
+                  <orig>loc<am>&#x016b;</am></orig>
+                  <reg>locu<ex>m</ex></reg>
+               </choice> succinctis ut decuit, <choice>
+                  <orig>breuib<am>;</am>que</orig>
+                  <reg>breuib<ex>us</ex>que</reg>
+               </choice> sententiis uitae instituta corponens. <note>Origenes, <hi rend="italic"
+                     >Comm. in Cant. cant.</hi>, Prol. 3, 5, ed. Brésard et al., p. 132f. </note>
+            </p>
+            <p n="08">
+               <lb facs="#Val404_60v_p_08" xml:id="Val404_60v_lb_08"/>
+               <choice>
+                  <orig>Secund<am>&#x016b;</am></orig>
+                  <reg>Secundu<ex>m</ex></reg>
+               </choice> uero qui naturalis appellatur <choice>
+                  <orig>c<am>&#x014d;</am>prehendit</orig>
+                  <reg>co<ex>m</ex>prehendit</reg>
+               </choice> ecclesiasten, quo multa de <choice>
+                  <orig>naturalib<am>&#x003b;</am></orig>
+                  <reg>naturalib<ex>us</ex></reg>
+               </choice> disserens <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> inania ac uana ab <choice>
+                  <orig>utilib<am>&#x003b;</am></orig>
+                  <reg>utilib<ex>us</ex></reg>
+               </choice> necessariisque secernens, <choice>
+                  <orig>relinquend<am>&#x0101;</am></orig>
+                  <reg>reliquenda<ex>m</ex></reg>
+               </choice> uanitatem <choice>
+                  <orig>mon<am>&#x0026;</am></orig>
+                  <reg>mon<ex>et</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> utilia <choice>
+                  <orig>rectaq<am>&#x00b7;</am></orig>
+                  <reg>rectaq<ex>ue</ex></reg>
+               </choice> sectanda.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol.
+                  3, 6, ed. Brésard et al., p. 132f. </note></p>
+            <p n="09">
+               <lb facs="#Val404_60v_p_09" xml:id="Val404_60v_lb_09"/> Inspectiuum <choice>
+                  <orig>quoq<am>&#x00b7;</am></orig>
+                  <reg>quoq<ex>ue</ex></reg>
+               </choice>
+               <choice>
+                  <orig>loc<am>&#x016b;</am></orig>
+                  <reg>locu<ex>m</ex></reg>
+               </choice> in hoc libello tradidit,</p>
+            <pb n="61r" xml:id="Val404_61r"/>
+            <p n="01">
+               <lb facs="#Val404_61r_p_01" xml:id="Val404_61r_lb_01"/> id est in cantico <choice>
+                  <orig>cantiquor<am>&#x016b;</am></orig>
+                  <reg>cantiquoru<ex>m</ex></reg>
+               </choice> in quo <choice>
+                  <orig>amor<am>&#x0113;</am></orig>
+                  <reg>amore<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>caelesti<am>&#x016b;</am></orig>
+                  <reg>caelestiu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>diuin<am>&#xe8ae;</am></orig>
+                  <reg>diuino<ex>rum</ex></reg>
+               </choice> que <choice>
+                  <orig>desiderior<am>&#x016b;</am></orig>
+                  <reg>desiderioru<ex>m</ex></reg>
+               </choice> incutit <choice>
+                  <orig>anim<am>&#x00e6;</am></orig>
+                  <reg>anim<ex>ae</ex></reg>
+               </choice> sub specie <choice>
+                  <orig>spons<am>&#x00e6;</am></orig>
+                  <reg>sponsae</reg>
+               </choice> ac sponsi, caritatis <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> amoris uiis <choice>
+                  <orig><am>&#xa751;</am>ueniend<am>&#x016b;</am></orig>
+                  <reg>p<ex>er</ex>ueniendu<ex>m</ex></reg>
+               </choice> docens ad <choice>
+                  <orig>cons<am>&#xe8ae;</am>ti<am>&#x016b;</am></orig>
+                  <reg>conso<ex>r</ex>tiu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>d<am>&#x012b;</am></orig>
+                  <reg>d<ex>e</ex>i</reg>
+               </choice>.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol. 3, 7,
+                  ed. Brésard et al., p. 132f. </note></p>
+            <p n="02">
+               <lb facs="#Val404_61r_p_02" xml:id="Val404_61r_lb_02"/> Primo <choice>
+                  <orig>itaq<am>&#x00b7;</am></orig>
+                  <reg>itaq<ex>ue</ex></reg>
+               </choice>
+               <choice>
+                  <orig>omni<am>&#x016b;</am></orig>
+                  <reg>omniu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice> hoc ipsum quod <choice>
+                  <orig><am>&#xa753;</am>uerbia</orig>
+                  <reg>p<ex>ro</ex>uerbia</reg>
+               </choice> attitulauit <choice>
+                  <orig>libell<am>&#x016b;</am></orig>
+                  <reg>libellu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>su<am>&#x016b;</am></orig>
+                  <reg>suu<ex>m</ex></reg>
+               </choice>, quod <choice>
+                  <orig>utiq<am>&#x00b7;</am></orig>
+                  <reg>utiq<ex>ue</ex></reg>
+               </choice> nomen significat aliud quidem <choice>
+                  <orig>pal<am>&#x0101;</am></orig>
+                  <reg>pala<ex>m</ex></reg>
+               </choice> dici, aliud uero intrinsecus indicari. Hoc enim <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> communis usus <choice>
+                  <orig>prouerbior<am>&#x016b;</am></orig>
+                  <reg>prouerbioru<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>doc<am>&#x0026;</am></orig>
+                  <reg>doc<ex>et</ex></reg>
+               </choice>, <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> iohannis in euangelio <choice>
+                  <orig>saluator<am>&#x0113;</am></orig>
+                  <reg>saluatiore<ex>m</ex></reg>
+               </choice> ita scribit <choice>
+                  <orig>dicent<am>&#x0113;</am></orig>
+                  <reg>dicente<ex>m</ex></reg>
+               </choice>. Haec in prouerbiis locutus sum uobis <choice>
+                  <orig>ueni<am>&#x0026;</am></orig>
+                  <reg>ueni<ex>et</ex></reg>
+               </choice> hora.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol. 3,
+                  8, ed. Brésard et al., p. 133f. </note>
+               <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> ob hoc ergo magister hic operis sui <choice>
+                  <orig>prouerbi<am>&#xefba;</am></orig>
+                  <reg>prouerbio<ex>rum</ex></reg>
+               </choice> posuit <choice>
+                  <orig>libell<am>&#x016b;</am></orig>
+                  <reg>libellu<ex>m</ex></reg>
+               </choice>, in quo ut diximus moralis traditur locus, ut cum intellectu quis <choice>
+                  <orig>morib<am>&#x003b;</am>q<am>&#x00b7;</am></orig>
+                  <reg>morib<ex>us</ex>q<ex>ue</ex></reg>
+               </choice>
+               <choice>
+                  <orig>prof<unclear>i</unclear>cer<am>&#x0026;&#x030d;</am></orig>
+                  <reg>proficer<ex>it</ex> (?)</reg>
+               </choice>, ueniat <choice>
+                  <orig><am>&#x0026;</am>iam</orig>
+                  <reg><ex>et</ex>iam</reg>
+               </choice> ad naturalis intellegentiae <choice>
+                  <orig>disciplin<am>&#x0101;</am></orig>
+                  <reg>disciplina<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>atq<am>&#x00b7;</am></orig>
+                  <reg>atq<ex>ue</ex></reg>
+               </choice> ibi <choice>
+                  <orig>rer<am>&#x016b;</am></orig>
+                  <reg>reru<ex>m</ex></reg>
+               </choice> causas <choice>
+                  <orig>naturasq<am>&#x00b7;</am></orig>
+                  <reg>naturasp<ex>ue</ex></reg>
+               </choice> distinguens agnoscat <choice>
+                  <orig>uanitat<am>&#x0113;</am></orig>
+                  <reg>uanitate<ex>m</ex></reg>
+               </choice> uanitatum <choice>
+                  <orig>relinquend<am>&#x0101;</am></orig>
+                  <reg>relinquenda<ex>m</ex></reg>
+               </choice>, ad aeterna autem <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xa751;</am>petua</orig>
+                  <reg>p<ex>er</ex>petua</reg>
+               </choice>
+               <choice>
+                  <orig>properand<am>&#x016b;</am></orig>
+                  <reg>properandu<ex>m</ex></reg>
+               </choice>.<note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol. 3, 14,
+                  ed. Brésard et al., p. 136-139. </note>
+               <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> ideo post <choice>
+                  <orig><am>&#xa753;</am>uerbia</orig>
+                  <reg>p<ex>ro</ex>uerbia</reg>
+               </choice> ad ecclesiasten uenitur, qui <choice>
+                  <orig>doc<am>&#x0026;</am></orig>
+                  <reg>doc<ex>et</ex></reg>
+               </choice> ut diximus uisibilia omnia <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> corporea caduca esse ac fragilia. <choice>
+                  <orig>Qu<am>&#x0119;</am></orig>
+                  <reg>Qu<ex>a</ex>e</reg>
+               </choice>
+               <choice>
+                  <orig>utiq<am>&#x00b7;</am></orig>
+                  <reg>utiq<ex>ue</ex></reg>
+               </choice>
+               <choice>
+                  <orig>c<am>&#x016b;</am></orig>
+                  <reg>cu<ex>m</ex></reg>
+               </choice> ita <choice>
+                  <orig>e<am>&#x0113;</am></orig>
+                  <reg>e<ex>ss</ex>e</reg>
+               </choice>
+               <choice>
+                  <reg>e<am>&#x0113;</am></reg>
+                  <reg>e<ex>ss</ex>e</reg>
+               </choice>
+               <choice>
+                  <orig>de<am>&#xe665;</am>hendit<am>&#x1de3;</am></orig>
+                  <reg>dep<ex>re</ex>hendit<ex>ur</ex></reg>
+               </choice>, tendat <add place="above">ad</add> inuisibilia aeterna, quae <choice>
+                  <orig>spiritalib<am>&#x003b;</am></orig>
+                  <reg>spiritalib<ex>us</ex></reg>
+               </choice> quidem <choice>
+                  <orig>sensib<am>&#x003b;</am></orig>
+                  <reg>sensib<ex>us</ex></reg>
+               </choice> sed <choice>
+                  <orig>o<am>&#xa751;</am>ta</orig>
+                  <reg>op<ex>er</ex>ta</reg>
+               </choice> amoris <choice>
+                  <orig>quib<am>&#x003b;</am>d<am>&#x0101;</am></orig>
+                  <reg>quib<ex>us</ex>da<ex>m</ex></reg>
+               </choice> figuris docentur in canticis canticorum. <note>Origenes, <hi rend="italic"
+                     >Comm. in Cant. cant.</hi>, Prol. 3, 15, ed. Brésard et al., p. 138f.
+               </note>Ideo enim <choice>
+                  <orig>nouissim<am>&#x016b;</am></orig>
+                  <reg>nouissimu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>loc<am>&#x016b;</am></orig>
+                  <reg>locu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>ten<am>&#x0026;</am></orig>
+                  <reg>ten<ex>et</ex></reg>
+               </choice> hic liber, ut tunc ad eum ueniatur, <choice>
+                  <orig>c<am>&#x016b;</am></orig>
+                  <reg>cu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>morib<am>&#x003b;</am></orig>
+                  <reg>morib<ex>us</ex></reg>
+               </choice> quis fuerit aedificatus <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice>
+               <choice>
+                  <orig>rer<am>&#x016b;</am></orig>
+                  <reg>reru<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>corruptibili<am>&#x016b;</am></orig>
+                  <reg>corruptibiliu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>scienti<am>&#x0101;</am></orig>
+                  <reg>scientia<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>distinction<am>&#x0113;</am>q<am>&#x00b7;</am></orig>
+                  <reg>distinctione<ex>m</ex>q<ex>ue</ex></reg>
+               </choice> didicerit, quo in nullo possit ex his figuris quibus <choice>
+                  <orig>spons<am>&#x00e6;</am></orig>
+                  <reg>spons<ex>ae</ex></reg>
+               </choice> ad <choice>
+                  <orig>spons<am>&#x016b;</am></orig>
+                  <reg>sponsu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>c<am>&#x00e6;</am>lest<am>&#x0113;</am></orig>
+                  <reg>c<ex>ae</ex>leste<ex>m</ex></reg>
+               </choice>, id est <choice>
+                  <orig>anim<am>&#x00e6;</am></orig>
+                  <reg>anim<ex>ae</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xa751;</am>fect<am>&#x00e6;</am></orig>
+                  <reg>p<ex>er</ex>fect<ex>ae</ex></reg>
+               </choice> amor ad <choice>
+                  <orig>uerb<am>&#x016b;</am></orig>
+                  <reg>uerbu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>d<am>&#x012b;</am></orig>
+                  <reg>d<ex>e</ex>i</reg>
+               </choice> discribitur ad <choice>
+                  <orig>forma<add place="above">n</add>t<am>&#x1de3;</am></orig>
+                  <reg>formant<ex>ur</ex></reg>
+               </choice> offendi. Praemissis <choice>
+                  <orig>namq<am>&#x00b7;</am></orig>
+                  <reg>namq<ex>ue</ex></reg>
+               </choice> his <choice>
+                  <orig>quib<am>&#x003b;</am></orig>
+                  <reg>quib<ex>us</ex></reg>
+               </choice>
+               <choice>
+                  <orig>purificat<am>&#x1de3;</am></orig>
+                  <reg>purificat<ex>ur</ex></reg>
+               </choice> anima <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice> act<del>o</del>us <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> mores,</p>
+            <pb n="61v" xml:id="Val404_61v"/>
+            <p n="01">
+               <lb facs="#Val404_61v_p_01" xml:id="Val404_61v_lb_01"/><choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> in <choice>
+                  <orig>rer<am>&#x016b;</am></orig>
+                  <reg>reru<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>discretion<am>&#x0113;</am></orig>
+                  <reg>discretione<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>naturali<am>&#x016b;</am></orig>
+                  <reg>naturaliu<ex>m</ex></reg>
+               </choice> perdocetur, competen<del>t</del>ur ad dogmatica uenitur, <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> mistica <choice>
+                  <orig>atq<am>&#x00b7;</am></orig>
+                  <reg>atq<ex>ue</ex></reg>
+               </choice> ad diuinitatis <choice>
+                  <orig>contemplation<am>&#x0113;</am></orig>
+                  <reg>contemplatione<ex>m</ex></reg>
+               </choice> sincero <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> spiritali amore conscenditur. <note>Origenes, <hi rend="italic">Comm. in
+                     Cant. cant.</hi>, Prol. 3, 16, ed. Brésard et al., p. 138f. </note>
+            </p>
+            <p n="02">
+               <lb facs="#Val404_61v_p_02" xml:id="Val404_61v_lb_02"/> Nunc <choice>
+                  <orig>aut<am>&#x0113;</am></orig>
+                  <reg>aute<ex>m</ex></reg>
+               </choice> requiramus primo quae sint cantica <choice>
+                  <orig>cantic<am>&#xefba;</am></orig>
+                  <reg>cantico<ex>rum</ex></reg>
+               </choice> hoc <choice>
+                  <orig>e<am>&#x0113;</am></orig>
+                  <reg>e<ex>ss</ex>e</reg>
+               </choice>
+               <choice>
+                  <orig>cantic<am>&#x016b;</am></orig>
+                  <reg>canticu<ex>m</ex></reg>
+               </choice> dicitur. Puto ergo quod cantica sint illa <choice>
+                  <orig>qu<am>&#x00e6;</am></orig>
+                  <reg>qu<ex>ae</ex></reg>
+               </choice>
+               <choice>
+                  <orig>dand<am>&#x016b;</am></orig>
+                  <reg>dudu<ex>m</ex></reg>
+               </choice> uel <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice>
+               <choice>
+                  <orig>proph<am>&#x0026;</am>ias</orig>
+                  <reg>proph<ex>et</ex>ias</reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xa749;</am></orig>
+                  <reg><ex>uel</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice> angelos <choice>
+                  <orig>canebant<am>&#x1de3;</am></orig>
+                  <reg>canebat<ex>ur</ex></reg>
+               </choice>. Lex <choice>
+                  <orig>en<am>&#x012b;</am></orig>
+                  <reg>eni<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>dicit<am>&#x1de3;</am></orig>
+                  <reg>dicit<ex>ur</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice> angelos ministrata in manu mediatoris. Illa ergo omnia quae <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice> illos <choice>
+                  <orig>adnun<am>&#xa787;</am>iabantur</orig>
+                  <reg>adnuntiabantur</reg>
+               </choice>, cantica erant <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice> amicos sponsi <choice>
+                  <orig><am>&#xe665;</am>cedentia</orig>
+                  <reg>p<ex>rae</ex>cedentia</reg>
+               </choice>. Istud uero <choice>
+                  <orig>un<am>&#x016b;</am></orig>
+                  <reg>unu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>cantic<am>&#x016b;</am></orig>
+                  <reg>canticu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig><am>&#x0113;</am></orig>
+                  <reg>e<ex>st</ex></reg>
+               </choice>, quod ipsi <add place="above">iam</add> sponso sponsam
+               suscipi<del>a</del>ent epitalamii specie erat <choice>
+                  <orig>canend<am>&#x016b;</am></orig>
+                  <reg>canendu<ex>m</ex></reg>
+               </choice>, in quo sponsa non adhuc <choice>
+                  <orig><am>&#xa751;</am></orig>
+                  <reg>p<ex>er</ex></reg>
+               </choice> amicos sponsi cantari vult, sed ipsius iam sponsi praesentis audire uerba
+               desiderat dicens, <choice>
+                  <orig>osculet<am>&#x1de3;</am></orig>
+                  <reg>osculet<ex>ur </ex></reg>
+               </choice> me. <note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, Prol. 4,
+                  3, ed. Brésard et al., p. ???. </note>
+            </p>
+            <p n="03">
+               <lb facs="#Val404_61v_p_03" xml:id="Val404_61v_lb_03"/> Libellus hic epithalamii
+               habens speciem dramatis in <choice>
+                  <orig>mod<am>&#x016b;</am></orig>
+                  <reg>modu<ex>m</ex></reg>
+               </choice> conscribitur. Drama<del>ti</del> autem diximus ubi certae <choice>
+                  <orig><am>&#xa751;</am>sonae</orig>
+                  <reg>p<ex>er</ex>sonae</reg>
+               </choice>
+               <choice>
+                  <orig>introducunt<am>&#x1de3;</am></orig>
+                  <reg>introducunt<ex>ur</ex></reg>
+               </choice> quae loquantur, <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice>
+               <choice>
+                  <orig>ali<am>&#x00e6;</am></orig>
+                  <reg>ali<ex>ae</ex></reg>
+               </choice>
+               <choice>
+                  <orig>interd<am>&#x016b;</am></orig>
+                  <reg>interdu<ex>m</ex></reg>
+               </choice>
+               <choice>
+                  <orig>su<am>&#xa751;</am>ueniunt</orig>
+                  <reg>sup<ex>er</ex>ueniunt</reg>
+               </choice>, <choice>
+                  <orig>ali<am>&#x00e6;</am></orig>
+                  <reg>ali<ex>ae</ex></reg>
+               </choice> recedunt aut accedunt, <choice>
+                  <orig><am>&#x0026;</am></orig>
+                  <reg><ex>et</ex></reg>
+               </choice> sic totum in <choice>
+                  <orig>mutatationib<am>&#x003b;</am></orig>
+                  <reg>mutatationib<ex>us</ex></reg>
+               </choice> agitur <choice>
+                  <orig><am>&#xa751;</am>sonarum</orig>
+                  <reg>p<ex>er</ex>sonarum</reg>
+               </choice>. <note>Origenes, <hi rend="italic">Comm. in Cant. cant.</hi>, 1. 1, 1, ed.
+                  Brésard et al.</note>
+            </p>
+            <p n="04">
+               <lb facs="#Val404_61v_p_04" xml:id="Val404_61v_lb_04"/> Haec ergo erit totius libelli
+               species, <choice>
+                  <orig>secund<am>&#x016b;</am></orig>
+                  <reg>secundu<ex>m</ex></reg>
+               </choice> haec pro <choice>
+                  <orig>uirib<am>&#x003b;</am></orig>
+                  <reg>uirib<ex>us</ex></reg>
+               </choice> storica a nobis aptabitur expositio. Spiritalis uero intellegentia <choice>
+                  <orig>secund<am>&#x016b;</am></orig>
+                  <reg>secundu<ex>m</ex></reg>
+               </choice> hoc quod nihilo minus in <choice>
+                  <orig>praefa<am>&#xa787;</am>ione</orig>
+                  <reg>praefatione</reg>
+               </choice> signauimus uel de ecclesia ad <choice>
+                  <orig>x<am>&#xe665;</am>m</orig>
+                  <reg>Christum</reg>
+               </choice> uel sponsae uel sponsi titulo <choice>
+                  <orig><am>&#xa749;</am></orig>
+                  <reg><ex>uel</ex></reg>
+               </choice> de amico uerbi <choice>
+                  <orig>d<am>&#x012b;</am></orig>
+                  <reg>d<ex>e</ex>i</reg>
+               </choice> coniunctione dirigitur. <hi rend="uppercase"><choice>
+                     <orig>Explic<am>&#x0304;</am></orig>
+                     <reg>Explic<ex>it</ex></reg>
+                  </choice> prologus origenis de c<damage>antic</damage>o canticorum.</hi></p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,549 @@
+
+				{"pages": [
+					 
+								{ 
+									"line" : "|", 
+									"text" : " ", 
+									"tags" : "1|Valenciennes 404", 
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "false"
+								}, 
+							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Theoricus, practicus, loycus ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57r|57r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Philosophia trifaria primo diuiditur, id est in theoricam, practicam et loycam.",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57r|57r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Sed hae tres partes subdiuisiones singulae capiunt isto modo. Theorica in tres subdiuiditur in theologica, mathematica, phisica.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57r|57r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : " Plerumque non solum disserere, sed disserta quaerere piget. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57r|57r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : " Theologica in diuinis rebus.  Mathematica in ediscendis.  Phisica in humanis id est naturalibus. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Diuisio theoricae In has tres subdiuiditur. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Theorica  id est contemplatiua ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Theologica  in diuinis rebus ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Phisica  in humanis id est naturalibus  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Naturalis dicitur uniuscuiusque rei natura qua discutitur quod nihil contra naturam geratur. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Mathematica  in ediscendis  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Harum media id est mathematica in quattuor has partes subdiuiditur. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Geometrica  in spatiorum et formarum demensione ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Arithmetica  ad numeros cognoscendos ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Astronomica  de cognirione stellarum ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Musisica(sic)  in modulatione sonorum ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_57v|57v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Uestri nec artus amplius fessi manet scribendo noster quam animus mansit laborando.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Multi enim sapietes fieri uolunt, sed raborem in perquirendam sapientiam adsumere pertimescunt. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Theoricae disciplinae ordinem disseruimus. Nunc ad secundam partem id est practicam properemus. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Practica quam actualem possumus dicere, in tres subdiuiditur in aethicam id est moralem, in oeconomicam id est dispensatiuam, in politicam id est ciuilem.",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Practica  id est actualis  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Actualis haec est prima quae est communis omnibus fidelibus. Actualis in multas professiones et studia diriuatur, ut est esuriui et non dedistis mihi, manducare et cetera officia pietatis haec est fides uera, quia illa sterilis daemonum est. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Ethica  id est moralis  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Moralis autem dicitur per quam mos uiuendi honestior aptatur et instituta ad uirtutem tendentia. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Eoconomica  id est Dispensatiua ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Politica  id est ciuilis ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58r|58r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Practica inspectiua ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58v|58v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Inspectiua, quae iam post[[e]] priora exerci[[ti]]tia inspicit uel contemplatur non ea quae uidentur sed quae non uidentur, ut est quod enim uidet quis quid sperat. Si autem non uidemus per patientiam spectamus, quae semper manent sicuti sunt ad quae per Christi fidem rationalis animae inuita[[n]]tur. haec diuiditur in histriam et spiritalem intellegentum.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58v|58v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Inspectiua dicitur, quia supergressi uisibilia de diuinis aliquid et caelestibus contemplamur ea quae mente sola intuemur quoniam corporeum supergrediuntur aspectum. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58v|58v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Historia. Doctrina historiae ordinem simpliciter pandit, in qua nullus occultus intellectus est nisi qui uerbis resonat, ut est tradidi uobis quae et accepistis quia Christus mortuus est, et misit deus filium summ factum ex muliere, et audi israhel dominus deus tuus deus unus est. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58v|58v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Spiritalis  intellectus ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_58v|58v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Practica inspectiva ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Spiritalis in tribus diuiditur, in tropologicam, in allegoriam, in anagogen. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Spiritalis  in has tes subdiuiditur ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Tropologia  morum compositio dicitur  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Scientia tropologiae est uniuersa quae ad dissertionem pertinent actualem, utrum uitiata uel honesta sint prudenti examinatione discernere ut est illud, cum apud nosmet ipsos iudicare praecipimur, utrum deceat mulierem non uelato capite orare deum, quae ratio molarem continet intellectum. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Alligoria(sic)  dicitur dictio figurata  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Reueratio ad allegoriam pertinet ut est quam patres nostri sub nube fuerunt. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Anagogen  id est ad superna ducens  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Prophetia quam tertio loco intulit, ad anagogen per quam ad inuisibilia ac futura sermo dei transfertur, ut est , nolumus uos ignorare fratres de dormientibus. Quae exhortationis specie anagogen figura praefertur. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59r|59r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Hae quattuor partes possunt id est historia, tropologia, allegoria, anagogen, in uno conuenire, ut est, Hierusalem secundum historiam ciuitas iudaeorum. secundum allegoriam, aecclesia Christi. Secundum anagogen, ciuitas dei illa caelestis, quae est mater omnium nostorm. secundum tropologiam, uero anima hominis quae frequenter hoc inter praetatur aut laudatur a domino. De his ergo apostolus, si uenero inquit ad uos linguis loquens, quid uobis prodero nisi uobis prodero aut in reuelatione, aut in scientia, aut in prophetia, aut in doctrina.   ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59v|59v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Practicam rationem iuxta quod ualuimus disseruimus, nunc ad tertiam partem id est loicam disserendam properemus. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59v|59v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Multum laboramus, sed utinam laboris fructum tandem perceperimus. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59v|59v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Loica id est rationalis trifario modo subdiuiditur.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59v|59v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : " In dialecticam id est disputatoriam. In epidicticam id est demonstratiuam. In sophisticam id est fraudulentiam et fictam.",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_59v|59v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Loica id est  rationalis  in has tres subdiuiditur  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60r|60r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Est enim loica haec uelut nos dicamus rationalis quae uerborum dictorum uidetur continere rariones. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60r|60r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "In dialecticam  id est disputatorum ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60r|60r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "In epidicticam  id est demonstratiuam ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60r|60r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "In sophisticam  id est fraudulentam ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60r|60r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Item quae ex his Origenis in canticum canticorvm dixerit inserendum esse putauimus.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60r|60r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Temptemus inquit prius de eo requirere quid illud sit quod cum tria uolumia ecclesiae dei a salomone scripta susciperint. Primus ex ipsis prouerbiorum, secundus is qui ecclesiastes appellatur, tertio uero in loco cantica canticorum uolumen habetur. Quae ergo nobis occurrere possunt in loco, ista sunt generales disciplinae, quibus ad rerum scientiam peruenitur, tres sunt quas greci aethicam, phisicam, practicam appellarunt. Has nos dicere possumus moralem, naturalem, inspectivam.",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60r|60r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Non nulli sane apud grecos etiam λoγιen, quam nos rationalem possumus dicere quarto in numero posuere non extrinsecus eam sed per has tres quas supra memorauimus disciplinas innexam consertampue per omne corpus esse dixerunt.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Est enim loica, haec uelut nos dicamus rationalis quae uerborum dictorum uidetur continere rationes, quam utique disciplinam non tam separari quam inseri caeteris conuenit et in texi.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Moralis autem dicitur per quam mos uiuendi honestior aptatur et instituta ad uirtutem tendentia. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Naturalis dicitur unius cuiusque rei natura discutitur quod nihil contra naturam geratur.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Inspectiua dicitur qua supergressi uisibilia de diuinis aliquid et caelestibus contemplamur, eaque mente sola intuemur, quoniam corporeum supergrediuntur aspectum.  ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Haec ergo ut mihi uidetur sapientes quique grecorum sumpta a salomone ut pote quia aetate et tempore longe ante ipsos prior ea per dei spiritum didicisset. Tres ergo istas quas supra diximus disciplinas tribus eas libellis edidit. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Primo in prouerbiis moralem docuit locum succinctis ut decuit, breuibusque sententiis uitae instituta corponens.   ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Secundum uero qui naturalis appellatur comprehendit ecclesiasten, quo multa de naturalibus disserens et inania ac uana ab utilibus necessariisque secernens, reliquendam uanitatem monet et utilia rectaque sectanda. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Inspectiuum quoque locum in hoc libello tradidit,",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_60v|60v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "id est in cantico cantiquorum in quo amorem caelestium diuinorum que desideriorum incutit animae sub specie sponsae ac sponsi, caritatis et amoris uiis perueniendum docens ad consortium dei. ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_61r|61r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Primo itaque omnium per hoc ipsum quod prouerbia attitulauit libellum suum, quod utique nomen significat aliud quidem palam dici, aliud uero intrinsecus indicari. Hoc enim et communis usus prouerbiorum docet, et iohannis in euangelio saluatiorem ita scribit dicentem. Haec in prouerbiis locutus sum uobis ueniet hora. et ob hoc ergo magister hic operis sui prouerbiorum posuit libellum, in quo ut diximus moralis traditur locus, ut cum intellectu quis moribusque proficerit (?), ueniat etiam ad naturalis intellegentiae disciplinam atque ibi rerum causas naturaspue distinguens agnoscat uanitatem uanitatum relinquendam, ad aeterna autem et perpetua properandum. et ideo post prouerbia ad ecclesiasten uenitur, qui docet ut diximus uisibilia omnia et corporea caduca esse ac fragilia. Quae utique cum ita esse eēesse deprehenditur, tendat ad inuisibilia aeterna, quae spiritalibus quidem sensibus sed operta amoris quibusdam figuris docentur in canticis canticorum. Ideo enim nouissimum locum tenet hic liber, ut tunc ad eum ueniatur, cum moribus quis fuerit aedificatus et rerum corruptibilium scientiam distinctionemque didicerit, quo in nullo possit ex his figuris quibus sponsae ad sponsum caelestem, id est animae perfectae amor ad uerbum dei discribitur ad formantur offendi. Praemissis namque his quibus purificatur anima per act[[o]]us et mores,",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_61r|61r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "et in rerum discretionem naturalium perdocetur, competen[[t]]ur ad dogmatica uenitur, et mistica atque ad diuinitatis contemplationem sincero et spiritali amore conscenditur.   ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_61v|61v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Nunc autem requiramus primo quae sint cantica canticorum hoc esse canticum dicitur. Puto ergo quod cantica sint illa quae dudum uel per prophetias uel per angelos canebatur. Lex enim dicitur per angelos ministrata in manu mediatoris. Illa ergo omnia quae per illos adnuntiabantur, cantica erant per amicos sponsi praecedentia. Istud uero unum canticum est, quod ipsi iam sponso sponsam suscipi[[a]]ent epitalamii specie erat canendum, in quo sponsa non adhuc per amicos sponsi cantari vult, sed ipsius iam sponsi praesentis audire uerba desiderat dicens, osculetur  me.   ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_61v|61v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Libellus hic epithalamii habens speciem dramatis in modum conscribitur. Drama[[ti]] autem diximus ubi certae personae introducuntur quae loquantur, et aliae interdum superueniunt, aliae recedunt aut accedunt, et sic totum in mutatationibus agitur personarum.   ",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_61v|61v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Haec ergo erit totius libelli species, secundum haec pro uiribus storica a nobis aptabitur expositio. Spiritalis uero intellegentia secundum hoc quod nihilo minus in praefatione signauimus uel de ecclesia ad Christum uel sponsae uel sponsi titulo uel de amico uerbi dei coniunctione dirigitur. Explicit prologus origenis de cantico canticorum.",
+											"tags" : "1|Valenciennes 404",
+											"loc" : "Val404_61v|61v",
+											"inFront": "false"
+										},
+									 
+				{ "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
+			
