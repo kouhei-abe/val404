@@ -42,7 +42,7 @@
 	<!-- EN: Index title -->
 	<!-- IT: Titolo edizione -->
 	<!-- default: 'Codex Viewer' -->
-	<xsl:param name="index_title" select="'Vercelli Book'"/>
+	<xsl:param name="index_title" select="'Liber de philosophia Salomonis'"/>
 
 	<!-- EN: Welcome Message -->
 	<!-- IT: Messaggio di benvenuto -->
@@ -107,7 +107,7 @@
 	<!-- EN: On/Off Bibliography -->
 	<!-- IT: Attiva/Disattiva Bibliografia -->
 	<!-- default: true() -->
-	<xsl:param name="bibliography" select="true()"/>
+	<xsl:param name="bibliography" select="false()"/>
 	
 	<!-- ############## -->
 	<!-- EDITION LEVELS -->
@@ -150,7 +150,7 @@
 	
 	<!-- EN: Enable/Disable translation -->
 	<!-- IT: Attiva/Disattiva traduzione -->
-	<xsl:variable name="translation" select="true()"/> 
+	<xsl:variable name="translation" select="false()"/> 
 
 	<!-- Thumb image -->
 	<xsl:variable name="fb_thumb">thumb_fb.jpg</xsl:variable>
@@ -244,12 +244,12 @@
 	<!-- EN: Show/Hide Hotspot Button in interface -->
 	<!-- IT: Mostra/Nascondi pulsante Hotspot nell'interfaccia web -->
 	<!-- default: true() -->
-	<xsl:param name="hs_button" select="true()"/>
+	<xsl:param name="hs_button" select="false()"/>
 
 	<!-- EN: Show/Hide Magnifier Button in interface -->
 	<!-- IT: Mostra/Nascondi pulsante Lente di ingrandimento nell'interfaccia web -->
 	<!-- default: true() -->
-	<xsl:param name="mag_button" select="true()"/>
+	<xsl:param name="mag_button" select="false()"/>
 
 	<!-- EN: Show/Hide Thumbnails Button in interface -->
 	<!-- IT: Mostra/Nascondi pulsante Thumbnails nell'interfaccia web -->
@@ -259,7 +259,7 @@
 	<!-- EN: Show/Hide Viscoll Button in interface -->
 	<!-- IT: Mostra/Nascondi pulsante Viscoll nell'interfaccia web -->
 	<!-- default: false() -->
-	<xsl:param name="viscoll_button" select="true()"/>
+	<xsl:param name="viscoll_button" select="false()"/>
 	
 	<!-- VISCOLL -->
 	<!-- In order to let Viscoll work properly, you need to prepare the collation scheme and the image list, as it is explained in the point 1 and 2 of 
@@ -331,7 +331,7 @@
 	<!-- EN: On/Off Lines/Prose visualization Button -->
 	<!-- IT: Attiva/Disattiva Bottone di visualizzazione Versi/Prosa  -->
 	<!-- default: true() -->
-	<xsl:param name="prose_verses_toggler" select="true()"/>
+	<xsl:param name="prose_verses_toggler" select="false()"/>
 	
 	<!-- EN: On/Off Tooltip indicating language encoded in @xml:lang -->
 	<!-- IT: Attiva/Disattiva Tooltip per la visualizzazione della lingua degli elementi che presentano @xml:lang  -->
@@ -348,17 +348,17 @@
 	<!-- EN: On/Off places list -->
 	<!-- IT: Attiva/disattiva lista luoghi -->
 	<!-- default: true() -->
-	<xsl:param name="list_place" select="false()"/>
+	<xsl:param name="list_place" select="true()"/>
 
 	<!-- EN: On/Off orgName list -->
 	<!-- IT: Attiva/disattiva lista organizzazioni -->
 	<!-- default: true() -->
-	<xsl:param name="list_org" select="false()"/>
+	<xsl:param name="list_org" select="true()"/>
 
 	<!-- EN: On/Off term list -->
 	<!-- IT: Attiva/disattiva lista terms -->
 	<!-- default: true() -->
-	<xsl:param name="list_term" select="false()"/>
+	<xsl:param name="list_term" select="true()"/>
 
 	<!-- EN: On/Off gloss list -->
 	<!-- IT: Attiva/disattiva lista glosses -->
@@ -377,7 +377,7 @@
 			 Per rimuovere un elemento basta eliminare tutto l'elemento di interesse.
 			 Per aggiungere un elemento alla lista basta sapere che il tag fa riferimento alla classe data all'elemento html con il quale sono state marcate le parole "particolari" da selezionare. -->
 	<xsl:variable name="lists" as="element()*">
-		<group label="NAMED_ENTITIES" active="true">
+		<group label="NAMED_ENTITIES" active="false">
 			<persName active="true"/>
 			<placeName active="false"/>
 			<orgName active="false"/>
@@ -398,7 +398,7 @@
 			<novelistic active="true"/>
 			<mixed active="true"/>
 		</group>
-		<group label="OTHERS" active="true">
+		<group label="OTHERS" active="false">
 			<seg type="kenning" active="true" label="KENNING"/>
 		</group>
 	</xsl:variable>

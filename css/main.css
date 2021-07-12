@@ -119,14 +119,14 @@ section {
 
 @font-face {
     font-family: 'Junicode';
-    src: url('../fonts/Junicode.woff') format('woff');
+    src: url('../fonts/JuniusVF.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Junicode-bold';
-    src: url('../fonts/Junicode-Bold.woff') format('woff');
+    src: url('../fonts/JuniusX-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
